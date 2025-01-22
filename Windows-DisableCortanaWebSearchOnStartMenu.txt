@@ -1,0 +1,4 @@
+Disable Cortana web search on start menu
+
+https://superuser.com/questions/1009708/disable-web-search-on-windows-10-start-menu
+

@@ -1,0 +1,9 @@
+ConvertFromEpoch.py converts an epoch timestamp into yyyy-mm-dd hh:mm:ss.ssssss from a list of times in a file (Default date.txt)
+You can change epoch in the script (default 1601-1-1)
+
+
+Date.txt example:
+
+13381532841620438
+13374889686824855
+13378781293216571
