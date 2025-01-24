@@ -1,0 +1,1 @@
+Block macros in Office 365 and enabled AV scanning for macros in HKCU registry
