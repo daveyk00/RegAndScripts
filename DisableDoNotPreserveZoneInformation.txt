@@ -1,0 +1,5 @@
+Disables the 'Do not preserve zone information in file' setting (allows Outlook to save mark of web data on attachments).  This policy disables turning it off (enforces on)
+
+User policy can be make HKLM for computer policy
+
+https://learn.microsoft.com/en-us/windows/client-management/mdm/policy-csp-attachmentmanager#donotpreservezoneinformation
