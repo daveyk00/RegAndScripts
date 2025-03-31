@@ -1,0 +1,1 @@
+Disable anonymous logon users (null session connections) from being allowed to list all account names and enumerate all shared resources via HKLM registry
