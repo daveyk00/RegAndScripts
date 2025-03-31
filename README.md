@@ -7,7 +7,7 @@
 | Get-DeviceManagementScripts.ps1 | Get all or individual Intune PowerShell scripts and save them in specified folder |
 | DisableDoNotPreserveZoneInformation.ps1 | Disables the 'Do not preserve zone information in file' setting (allows Outlook to save mark of web data on attachments) |
 | Windows-DisableAnonymousEnumerationOfShares.ps1 | Disable anonymous logon users (null session connections) from being allowed to list all account names and enumerate all shared resources via HKLM registry |
-|  |  |
+| Windows-SendNTLMv2ReponsesOnly.ps1 | Configured challenge/response authentication protocol for network logons to be only NTLMv2 and refuse LM and NTLM |
 |  |  |
 |  |  |
 |  |  |

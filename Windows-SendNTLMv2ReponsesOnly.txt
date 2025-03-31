@@ -1,0 +1,2 @@
+Configured challenge/response authentication protocol for network logons to be only NTLMv2 and refuse LM and NTLM via HKLM registry
+This choice affects the level of authentication protocol used by clients, the level of session security negotiated, and the level of authentication accepted by servers.
