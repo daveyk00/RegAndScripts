@@ -1,0 +1,2 @@
+Enable 'Microsoft network client: Digitally sign communications (always)'
+https://learn.microsoft.com/en-us/archive/blogs/josebda/the-basics-of-smb-signing-covering-both-smb1-and-smb2

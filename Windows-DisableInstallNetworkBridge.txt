@@ -1,0 +1,2 @@
+Determines a user from installing and configure the Network Bridge.
+https://learn.microsoft.com/en-us/windows/client-management/mdm/policy-csp-wifi#allowinternetsharing

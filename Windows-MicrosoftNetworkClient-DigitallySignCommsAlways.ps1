@@ -1,0 +1,2 @@
+if((Test-Path -LiteralPath "HKLM:\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters\") -ne $true) {  New-Item "HKLM:\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters\" -force -ea SilentlyContinue };
+New-ItemProperty -LiteralPath 'HKLM:\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters\' -Name 'RequireSecuritySignature' -Value 1 -PropertyType DWord -Force -ea SilentlyContinue;

@@ -1,0 +1,2 @@
+Disable chrome running in background when closed
+https://admx.help/?Category=Chrome&Policy=Google.Policies.Chrome%3A%3ABackgroundModeEnabled
