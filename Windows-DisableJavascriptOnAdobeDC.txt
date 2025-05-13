@@ -1,0 +1,2 @@
+Disables Javascript in Adobe Reader DC
+https://learn.microsoft.com/en-us/answers/questions/2201441/addressing-disable-javascript-on-adobe-reader-dc

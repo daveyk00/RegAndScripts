@@ -12,8 +12,8 @@
 | Windows-MicrosoftNetworkClient-DigitallySignCommsAlways.ps1 |
 | Windows-DisableChromeRunningInBackground.ps1 | Disable Chrome running in background when closed |
 | Windows-DisableInstallNetworkBridge.ps1 | Determines a user from installing and configure the Network Bridge |
-| | |
-| | |
+| Windows-DisableLocalStorageOfPasswordsAndCredentials.ps1 | Disable local storage of passwords (cred man) |
+| Windows-DisableJavascriptOnAdobeDC | Disables JavaScript in Adobe Reader DC |
 | | |
 | | |
 | | |
