@@ -14,7 +14,7 @@
 | Windows-DisableInstallNetworkBridge.ps1 | Determines a user from installing and configure the Network Bridge |
 | Windows-DisableLocalStorageOfPasswordsAndCredentials.ps1 | Disable local storage of passwords (cred man) |
 | Windows-DisableJavascriptOnAdobeDC | Disables JavaScript in Adobe Reader DC |
-| | |
+| Windows-ApplyUACrestrictionstolocalaccountsonnetworklogons | Enable 'Apply UAC restrictions to local accounts on network logons' |
 | | |
 | | |
 | | |

@@ -1,0 +1,2 @@
+Enable 'Apply UAC restrictions to local accounts on network logons'
+https://learn.microsoft.com/en-us/troubleshoot/windows-server/windows-security/user-account-control-and-remote-restriction
