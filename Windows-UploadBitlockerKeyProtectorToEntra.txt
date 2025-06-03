@@ -1,0 +1,2 @@
+Backup bitlocker recovery key to Entra.
+https://learn.microsoft.com/en-us/powershell/module/bitlocker/backuptoaad-bitlockerkeyprotector?view=windowsserver2025-ps
