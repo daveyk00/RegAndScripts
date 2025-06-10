@@ -1,2 +1,4 @@
 Disables Javascript in Adobe Reader DC
 https://learn.microsoft.com/en-us/answers/questions/2201441/addressing-disable-javascript-on-adobe-reader-dc
+This also disables flash
+https://www.adobe.com/devnet-docs/acrobatetk/tools/PrefRef/Windows/FeatureLockDown.html#Flash
