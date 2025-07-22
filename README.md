@@ -16,8 +16,8 @@
 | Windows-DisableJavascriptOnAdobeDC | Disables JavaScript in Adobe Reader DC |
 | Windows-ApplyUACrestrictionstolocalaccountsonnetworklogons | Enable 'Apply UAC restrictions to local accounts on network logons' |
 | Windows-UploadBitlockerKeyProtectorToEntra.ps1 | Backup bitlocker recovery key to Entra. |
-| | |
-| | |
+| graph\Force-ChangePassword.ps1 | modifies Entra ID Attibute 'ForceChangePasswordNextSignIn' to True on all accounts |
+| graph\Revoke-AllSessions.ps1 | revokes all 365 sessions forcing users to sign back in. |
 | | |
 | | |
 | | |
