@@ -1,0 +1,5 @@
+if((Test-Path -LiteralPath "HKCU:\SOFTWARE\Microsoft\Office\16.0\Excel\Security\Trusted Locations\Location6") -ne $true) {  New-Item "HKCU:\SOFTWARE\Microsoft\Office\16.0\Excel\Security\Trusted Locations\Location6" -force -ea SilentlyContinue };
+New-ItemProperty -LiteralPath 'HKCU:\SOFTWARE\Microsoft\Office\16.0\Excel\Security\Trusted Locations\Location6' -Name 'Path' -Value 'https://example.sharepoint.com/files/Shared%20Documents/OfficeDocuments/Templates' -PropertyType String -Force -ea SilentlyContinue;
+New-ItemProperty -LiteralPath 'HKCU:\SOFTWARE\Microsoft\Office\16.0\Excel\Security\Trusted Locations\Location6' -Name 'Description' -Value 'Allow Office Documents' -PropertyType String -Force -ea SilentlyContinue;
+New-ItemProperty -LiteralPath 'HKCU:\SOFTWARE\Microsoft\Office\16.0\Excel\Security\Trusted Locations\Location6' -Name 'Date' -Value '10/11/2024 10:32' -PropertyType String -Force -ea SilentlyContinue;
+New-ItemProperty -LiteralPath 'HKCU:\SOFTWARE\Microsoft\Office\16.0\Excel\Security\Trusted Locations\Location6' -Name 'AllowSubfolders' -Value '1' -PropertyType String -Force -ea SilentlyContinue;

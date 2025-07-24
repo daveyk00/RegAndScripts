@@ -18,8 +18,8 @@
 | Windows-UploadBitlockerKeyProtectorToEntra.ps1 | Backup bitlocker recovery key to Entra. |
 | graph\Force-ChangePassword.ps1 | modifies Entra ID Attibute 'ForceChangePasswordNextSignIn' to True on all accounts |
 | graph\Revoke-AllSessions.ps1 | revokes all 365 sessions forcing users to sign back in. |
-| | |
-| | |
+| Office-MacroTrustedLocations.ps1 | Add Trusted locations to office for macros |
+| Windows-NewLocalAdmin.ps1 | Create local admin with a random password |
 | | |
 | | |
 
