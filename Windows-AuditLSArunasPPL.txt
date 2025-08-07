@@ -1,0 +1,3 @@
+Enable LSA Runas PPL audit as per:
+https://learn.microsoft.com/en-us/windows-server/security/credentials-protection-and-management/configuring-additional-lsa-protection
+https://itm4n.github.io/lsass-runasppl/

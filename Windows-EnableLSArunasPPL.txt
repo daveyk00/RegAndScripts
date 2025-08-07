@@ -1,0 +1,23 @@
+Enable LSA Runas PPL audit as per:
+https://learn.microsoft.com/en-us/windows-server/security/credentials-protection-and-management/configuring-additional-lsa-protection
+https://itm4n.github.io/lsass-runasppl/
+
+
+Check:
+Determine whether LSA starts in protected mode when Windows starts, take the following steps:
+    Open Event Viewer.
+    Expand Windows Logs > System.
+    Look for the following WinInit event: 12: LSASS.exe was started as a protected process with level: 4.
+
+
+
+
+When LSA protection is enabled, the system generates event logs that identify all the plug-ins and drivers that fail to load under LSA.
+After you opt in to added LSA protection, you can use the event log to identify LSA plug-ins and drivers that fail to load in LSA protection mode.
+Check for the following events in Event Viewer by expanding Applications and Services Logs > Microsoft > Windows > CodeIntegrity > Operational:
+    Event 3033 occurs when a code integrity check determines that a process, usually LSASS.exe,
+        attempts to load a driver that doesn't meet the Microsoft signing level requirements.
+    Event 3063 occurs when a code integrity check determines that a process, usually LSASS.exe,
+        attempts to load a driver that doesn't meet the security requirements for shared sections.
+Shared sections typically result when programming techniques allow instance data to interact with other
+processes that use the same security context. Shared sections can create security vulnerabilities.
