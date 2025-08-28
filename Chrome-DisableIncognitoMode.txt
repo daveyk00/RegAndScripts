@@ -1,0 +1,4 @@
+Disable Chrome Incognito Mode
+
+https://support.google.com/chrome/a/thread/119642734/how-do-i-block-incognito-using-intune?hl=en
+https://chromeenterprise.google/policies/?policy=IncognitoModeAvailability

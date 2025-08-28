@@ -1,0 +1,2 @@
+if((Test-Path -LiteralPath "HKLM:\SOFTWARE\Policies\Google\Chrome") -ne $true) {  New-Item "HKLM:\SOFTWARE\Policies\Google\Chrome" -force -ea SilentlyContinue };
+New-ItemProperty -LiteralPath 'HKLM:\SOFTWARE\Policies\Google\Chrome' -Name 'IncognitoModeAvailability' -Value 1 -PropertyType DWord -Force -ea SilentlyContinue;
