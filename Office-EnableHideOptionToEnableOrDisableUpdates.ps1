@@ -1,0 +1,2 @@
+if((Test-Path -LiteralPath "HKLM:\SOFTWARE\policies\Microsoft\office\16.0\common\officeupdate") -ne $true) {  New-Item "HKLM:\SOFTWARE\policies\Microsoft\office\16.0\common\officeupdate" -force -ea SilentlyContinue };
+New-ItemProperty -LiteralPath 'HKLM:\SOFTWARE\policies\Microsoft\office\16.0\common\officeupdate' -Name 'hideenabledisableupdates' -Value 1 -PropertyType DWord -Force -ea SilentlyContinue;

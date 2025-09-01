@@ -1,0 +1,1 @@
+Disable 'Allow Basic authentication' for WinRM Client and Service
