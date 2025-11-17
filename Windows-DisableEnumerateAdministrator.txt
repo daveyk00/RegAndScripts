@@ -1,0 +1,2 @@
+Disable 'Enumerate administrator accounts on elevation'
+https://www.manageengine.com/vulnerability-management/misconfiguration/logon-security/disabling-enumerate-administrator-accounts-on-elevation.html

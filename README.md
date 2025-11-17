@@ -21,5 +21,5 @@
 | Office-MacroTrustedLocations.ps1 | Add Trusted locations to office for macros |
 | Windows-NewLocalAdmin.ps1 | Create local admin with a random password |
 | Windows-RequireLDAPClientSigningAndEncrypt | Configures LDAP client side signing and encryption |
-| | |
+| Windows-DisableEnumerateAdministrator | Disable 'Enumerate administrator accounts on elevation' |
 
