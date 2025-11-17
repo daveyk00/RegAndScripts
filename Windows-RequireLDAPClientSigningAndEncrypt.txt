@@ -1,0 +1,7 @@
+How to enable LDAP signing in Windows Server
+https://u-tools.com/help/LdapMismatch.asp (under client)
+
+
+Enforcing LDAP client signing requires all LDAP requests from clients to be cryptographically signed. This ensures the integrity and authenticity of LDAP traffic, confirming it hasn’t been altered in transit and that it originates from a trusted source.
+
+Without this setting, attackers can perform man-in-the-middle attacks and inject or manipulate LDAP communications, potentially leading to privilege escalation or unauthorized actions.
