@@ -1,0 +1,4 @@
+Enable 'Block third party cookies'
+
+https://support.google.com/chrome/a/answer/187202?sjid=335189334332132972-NC#zippy=%2Cwindows
+https://dl.google.com/dl/edgedl/chrome/policy/policy_templates.zip
