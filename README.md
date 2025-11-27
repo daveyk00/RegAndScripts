@@ -20,6 +20,7 @@
 | graph\Revoke-AllSessions.ps1 | revokes all 365 sessions forcing users to sign back in. |
 | Office-MacroTrustedLocations.ps1 | Add Trusted locations to office for macros |
 | Windows-NewLocalAdmin.ps1 | Create local admin with a random password |
-| Windows-RequireLDAPClientSigningAndEncrypt | Configures LDAP client side signing and encryption |
-| Windows-DisableEnumerateAdministrator | Disable 'Enumerate administrator accounts on elevation' |
+| Windows-RequireLDAPClientSigningAndEncrypt.ps1 | Configures LDAP client side signing and encryption |
+| Windows-DisableEnumerateAdministrator.ps1 | Disable 'Enumerate administrator accounts on elevation' |
+| chrome-disablePasswordManager.ps1 | Disable the chrome password manager (users can still get password out though) |
 
