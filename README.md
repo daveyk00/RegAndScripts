@@ -23,4 +23,4 @@
 | Windows-RequireLDAPClientSigningAndEncrypt.ps1 | Configures LDAP client side signing and encryption |
 | Windows-DisableEnumerateAdministrator.ps1 | Disable 'Enumerate administrator accounts on elevation' |
 | chrome-disablePasswordManager.ps1 | Disable the chrome password manager (users can still get password out though) |
-
+| Windows-AccountLockOutSettings.txt | the OMA URI for account lockout settings |

@@ -1,0 +1,12 @@
+Set 'Account lockout duration' to 15 minutes
+Set 'Account lockout threshold' to 10
+Set 'Account lockout reset' to 15 minutes
+
+Create configuration policy of custom:
+
+Name: DeviceLockAccountLockoutPolicy
+Description: Configure lockout duration to 15, threshold to 10 and reset after 15 minutes
+OMA-URI: ./Device/Vendor/MSFT/Policy/Config/DeviceLock/AccountLockoutPolicy
+Data type: String
+Value:
+AccountLockoutDuration:15, AccountLockoutThreshold:10, ResetAccountLockoutCounterAfter:15
