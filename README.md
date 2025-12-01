@@ -24,3 +24,4 @@
 | Windows-DisableEnumerateAdministrator.ps1 | Disable 'Enumerate administrator accounts on elevation' |
 | chrome-disablePasswordManager.ps1 | Disable the chrome password manager (users can still get password out though) |
 | Windows-AccountLockOutSettings.txt | the OMA URI for account lockout settings |
+| ExchangeOnline\Set-ExternalSenderFlag.ps1 | get value of ExternalInOutlook, save in file and if False, set to True | 
