@@ -1,2 +1,2 @@
 if((Test-Path -LiteralPath "HKLM:\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations") -ne $true) {  New-Item "HKLM:\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations" -force -ea SilentlyContinue };
-New-ItemProperty -LiteralPath 'HKLM:\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations' -Name 'UserAuthentication' -Value 0 -PropertyType DWord -Force -ea SilentlyContinue;
+New-ItemProperty -LiteralPath 'HKLM:\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations' -Name 'UserAuthentication' -Value 1 -PropertyType DWord -Force -ea SilentlyContinue;
