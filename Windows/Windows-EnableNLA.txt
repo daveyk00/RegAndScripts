@@ -1,2 +1,4 @@
 Set user authentication for remote connections by using Network Level Authentication to 'Enabled'
 https://learn.microsoft.com/en-us/troubleshoot/azure/virtual-machines/windows/cannot-connect-rdp-azure-vm#workaround
+
+https://gobisweb.ch/2022/10/07/security-how-to-achieve-a-microsoft-secure-score-for-devices-above-95-in-microsoft-defender-for-endpoint-with-microsoft-intune/

@@ -1,0 +1,1267 @@
+appid,displayName,WhyExcluded
+00000001-0000-0000-c000-000000000000,Azure ESTS Service,Microsoft
+00000002-0000-0000-c000-000000000000,Windows Azure Active Directory,Microsoft
+00000002-0000-0ff1-ce00-000000000000,Office 365 Exchange Online / Hybrid App,Microsoft
+00000002-0000-0ff1-ce00-000000000000,Outlook Web App (alt),Microsoft
+00000002-0000-0ff1-ce00-000000000000,Office 365 Exchange Online,Microsoft
+00000003-0000-0000-c000-000000000000,Microsoft Graph,Microsoft
+00000003-0000-0ff1-ce00-000000000000,Office 365 SharePoint Online,Microsoft
+00000004-0000-0ff1-ce00-000000000000,Skype for Business Online / Lync,Microsoft
+00000004-0000-0ff1-ce00-000000000000,Skype for Business Online,Microsoft
+00000005-0000-0000-c000-000000000000,Microsoft Azure Workflow,Microsoft
+00000005-0000-0ff1-ce00-000000000000,Viva Engage,Microsoft
+00000006-0000-0ff1-ce00-000000000000,Microsoft Office 365 Portal,Microsoft
+00000007-0000-0000-c000-000000000000,Dataverse,Microsoft
+00000007-0000-0ff1-ce00-000000000000,Microsoft Exchange Online Protection,Microsoft
+00000008-0000-0000-c000-000000000000,Microsoft.Azure.DataMarket,Microsoft
+00000009-0000-0000-c000-000000000000,Power BI Service,Microsoft
+0000000a-0000-0000-c000-000000000000,Microsoft.Intune,Microsoft
+0000000b-0000-0000-c000-000000000000,Microsoft Seller Dashboard,Microsoft
+0000000c-0000-0000-c000-000000000000,Microsoft App Access Panel,Microsoft
+0000000f-0000-0000-c000-000000000000,Microsoft.Azure.GraphExplorer,Microsoft
+00000010-0000-0000-c000-000000000000,Microsoft.Azure.GraphStore,Microsoft
+00000012-0000-0000-c000-000000000000,Microsoft Rights Management Services,Microsoft
+00000013-0000-0000-c000-000000000000,Azure Classic Portal,Microsoft
+00000014-0000-0000-c000-000000000000,Microsoft.Azure.SyncFabric,Microsoft
+00000015-0000-0000-c000-000000000000,Microsoft Dynamics ERP,Microsoft
+0000001b-0000-0000-c000-000000000000,Microsoft Power BI Information Service,Microsoft
+00695ed2-3202-4156-8da1-69f60065e255,Microsoft Visio Data Visualizer,Microsoft
+00b41c95-dab0-4487-9791-b9d2c32c80f2,Office 365 Management,Microsoft
+00edd498-7c0c-4e68-859c-5a55d518c9c0,Teams Calling Meeting Devices Services,Microsoft
+00f82732-f451-4a01-918c-0e9896e784f9,Skype for Business Application Configuration Service,Microsoft
+01cb2876-7ebd-4aa4-9cc9-d28bd4d359a9,Device Registration Service,Microsoft
+01fc33a7-78ba-4d2f-a4b7-768e336e890e,MS-PIM,Microsoft
+03509b1f-54e9-4557-a555-19a090903b84,CRM Power BI Integration GCC High,Microsoft
+035f9e1d-4f00-4419-bf50-bf2d87eb4878,Azure Monitor Restricted,Microsoft
+038187f5-ca69-4382-8c0b-8d87708d099f,MSAI Substrate Meeting Intelligence,Microsoft
+041e4c2d-ba3e-46a1-9347-5bc4054c8af4,Power Automate Desktop GCC,Microsoft
+04436913-cf0d-4d2a-9cc6-2ffe7f1d3d1c,Windows Notification Service,Microsoft
+04687a56-4fc2-4e36-b274-b862fb649733,MDATPNetworkScanAgent,Microsoft
+0469d4cd-df37-4d93-8a61-f8c75b809164,Policy Administration Service,Microsoft
+04b07795-8ddb-461a-bbee-02f9e1bf7b46,Microsoft Azure CLI,Microsoft
+04d97d71-f71f-450b-8b44-f638d5d1b5d6,PhysOps.Clients.Worker,Microsoft
+04f0c124-f2bc-4f59-8241-bf6df9866bbd,Visual Studio,Microsoft
+0517ffae-825d-4aff-999e-3f2336b8a20a,M365 App Management Service,Microsoft
+0527d918-8aec-4c44-9f4e-86cc8b88d87b,AIBuilder_StructuredML_PreProd_CDS,Microsoft
+05a65629-4c1b-48c1-a78b-804c4abdd4af,Microsoft Cloud App Security,Microsoft
+05d97c70-cb7c-4e66-8138-d5ca7c59d206,Fiji Storage Backend,Microsoft
+065d9450-1e87-434e-ac2f-69af271549ed,PowerPlatformAdminCenter,Microsoft
+06dd8193-75af-46d0-84bb-9b9bcaa89e8b,SubstrateActionsService,Microsoft
+0736f41a-0425-4b46-bdb5-1563eff02385,Azure Machine Learning,Microsoft
+079013fb-85d0-4d99-87d0-aeca060231e3,DynamicsInstallerTest,Microsoft
+07ce06e6-4ae9-4466-bca4-2984fa04d057,Microsoft Dynamics File Storage,Microsoft
+080765e3-9336-4461-b934-310acccb907d,Defender for Storage Advanced Threat Protection Resource Provider,Microsoft
+08e18876-6177-487e-b8b5-cf950c1e598c,SharePointOnlineWebClientExtensibility,Microsoft
+08e18876-6177-487e-b8b5-cf950c1e598c,SharePoint Online Web Client Extensibility,Microsoft
+091c98b0-a1c9-4b02-b62c-7753395ccabe,Dynamics RCS Workload,Microsoft
+09213cdc-9f30-4e82-aa6f-9b6e8d82dab3,Microsoft Tech Community,Microsoft
+09a984f4-014c-43de-ae0c-7ec73dc053d3,BenefitsFD,Microsoft
+09abbdfd-ed23-44ee-a2d9-a627aa1c90f3,ProjectWorkManagement,Microsoft
+09be0be4-1874-4f49-bc5c-78e6fc2a8065,Power Apps Portals - Development,Microsoft
+0a0a29f9-0a25-49c7-94bf-c53c3f8fa69d,Cortana Experience with O365,Microsoft
+0a5f63c0-b750-4f38-a71c-4fc0d58b89e2,Microsoft Mobile Application Management,Microsoft
+0af06dc6-e4b5-4f28-818e-e78e62d137a5,Windows 365,Microsoft
+0b820e0a-8d08-45d1-8740-bde894f7e1c2,Lobe Client,Microsoft
+0bf30f3b-4a52-48df-9a82-234910c4a086,Microsoft Graph Change Tracking,Microsoft
+0bfc4568-a4ba-4c58-bd3e-5d3e76bd7fff,Dynamics365AICustomerInsights,Microsoft
+0c708d37-30b2-4f22-8168-5d0cba6f37be,Microsoft Teams Partner Tenant Administration,Microsoft
+0c7668b5-3260-4ad0-9f53-34ed54fa19b2,Microsoft Defender for Cloud Servers Scanner Resource Provider,Microsoft
+0c906d81-7073-46b5-a95c-3726fca3e3a3,Power Platform Insights and Recommendations Data Plane Prod,Microsoft
+0cb2a3b9-c0b0-4f92-95e2-8955085f78c2,PowerApps,Microsoft
+0cb7b9ec-5336-483b-bc31-b15b5788de71,ASM Campaign Servicing,Microsoft
+0cd196ee-71bf-4fd6-a57c-b491ffd4fb1e,Media Analysis and Transformation Service,Microsoft
+0d38933a-0bbd-41ca-9ebd-28c4b5ba7cb7,Office365 Zoom,Microsoft
+0e282aa8-2770-4b6c-8cf8-fac26e9ebe1f,Sherlock,Microsoft
+0eb4bf93-cb63-4fe1-9d7d-70632ccf3082,Microsoft Teams Intelligent Workspaces Interactions Service,Microsoft
+0eda3b13-ddc9-4c25-b7dd-2f6ea073d6b7,Microsoft Flow CDS Integration Service,Microsoft
+0ef09fa7-413d-4a9f-a7a5-32f8f62b7598,Field Service Mobile,Microsoft
+0ef94e72-e4fc-4aa0-a8f4-ff27deb3e6eb,Teams NRT DLP Ingestion Service,Microsoft
+0f54b75d-4d29-4a92-80ae-106a60cd8f5d,Teams User Engagement Profile Service,Microsoft
+0f663440-6490-4534-92fa-6cd13cfd374c,Azure Cost Management Public Main RP,Microsoft
+0f698dd4-f011-4d23-a33e-b36416dcb1e6,OfficeClientService,Microsoft
+0f6e3eff-886c-4f7a-a1d7-6f1f0177273b,Intune oAuth Graph,Microsoft
+0f6edad5-48f2-4585-a609-d252b1c52770,AIGraphClient,Microsoft
+0fa37baf-7afc-4baf-ab2d-d5bb891d53ef,Microsoft Teams ATP Service,Microsoft
+110797d6-4a5e-4e58-a06d-f1bf3f3a8069,Field Service Mobile,Microsoft
+11c174dc-1945-4a9a-a36b-c79a0f246b9b,AzureApplicationInsights,Microsoft
+11cd3e2e-fccb-42ad-ad00-878b93575e07,Automated Call Distribution,Microsoft
+11f6c209-c042-4da5-acb9-8d3546fe506f,DYN365AISERVICEINSIHTSPPE,Microsoft
+12743ff8-d3de-49d0-a4ce-6c91a4245ea0,Metrics Monitor API,Microsoft
+1303f293-64bd-48ba-89b0-6bf538bc67f3,Microsoft Teams IP Policy Service,Microsoft
+133c4dc0-9d5f-4826-9f7b-6bb3d3867e6a,PADWAMigrator,Microsoft
+1341df96-0b28-43da-ba24-7a6ce39be816,Azure Managed HSM RP,Microsoft
+14452459-6fa6-4ec0-bc50-1528a1a06bf0,Intune CMDeviceService,Microsoft
+14d82eec-204b-4c2f-b7e8-296a70dab67e,Microsoft Graph PowerShell,Microsoft
+15689b28-1333-4213-bb64-38407dde8a5e,Microsoft Azure,Microsoft
+1609d3a1-0db2-4818-b854-fe1614f0718a,Fiji Storage,Microsoft
+161a339d-b9f5-41c5-8856-6a6669acac64,Microsoft Azure Alerts Management,Microsoft
+163b648b-025e-455b-9937-a7f39a65d171,SSO Extension Intune,Microsoft
+166f1b03-5b19-416f-a94b-1d7aa2d247dc,Office Hive,Microsoft
+167e2ded-f32d-49f5-8a10-308b921bc7ee,OCaaS Worker Services,Microsoft
+1690c5aa-925a-4d0e-836b-722c795bd0d0,Group Configuration Processor,Microsoft
+1762e607-063e-431a-a25a-f0f782acb73b,Virtual Connector Provider,Microsoft
+184909ca-69f1-4368-a6a7-c558ee6eb0bd,Marketplace Caps API,Microsoft
+1884bdbf-452a-4a11-9c76-afdbdb1b3768,Relevance Search Service,Microsoft
+1884bdbf-452a-4a11-9c76-afdbdb1b3768,RelevanceSearch,Microsoft
+18a4ad1e-427c-4cad-8416-ef674e801d32,Intune DeviceActionService,Microsoft
+18a66f5f-dbdf-4c17-9dd7-1634712a9cbe,Azure Machine Learning Services,Microsoft
+18af356b-c4fd-4f52-9899-d09d21397ab7,Office365DirectorySynchronizationService,Microsoft
+18f36947-75b0-49fb-8d1c-29584a55cac5,Reply-At-Mention,Microsoft
+1950a258-227b-4e31-a9cf-717495945fc2,Microsoft Azure PowerShell,Microsoft
+19679030-48d8-445f-b27c-311bb3be8a2c,eSeal,Microsoft
+19686ca6-5324-4571-a231-77e026b0e06f,Microsoft Command Service,Microsoft
+19947cfd-0303-466c-ac3c-fcc19a7a1570,Azure DNS,Microsoft
+1996141e-2b07-4491-927a-5a024b335c78,Microsoft Teams UIS,Microsoft
+19a92965-3c11-4ed7-a1bd-9b66785dd4c6,PADWAMigratorGCC,Microsoft
+19b21e10-1304-498b-92d4-4290e94999fa,CAS API Security RP Staging,Microsoft
+19dd5b37-d116-48cb-90d2-4aa56696cba1,MicrosoftFormsProTest,Microsoft
+19dd5b37-d116-48cb-90d2-4aa56696cba1,Microsoft Forms Pro,Microsoft
+1a14be2a-e903-4cec-99cf-b2e209259a0f,Azure Lab Services,Microsoft
+1a4b5304-a0fd-4017-8a3d-466fc083b73e,MSATenantRestrictions,Microsoft
+1b3c667f-cde3-4090-b60b-3d2abd0117f0,Windows Spotlight,Microsoft
+1b489150-9b00-413a-83fd-6ef8f05b6e28,Policy Processor,Microsoft
+1b730954-1685-4b74-9bfd-dac224a7b894,Azure Active Directory PowerShell,Microsoft
+1b912ec3-a9dd-4c4d-a53e-76aa7adb28d7,AADReporting,Microsoft
+1c0ae35a-e2ec-4592-8e08-c40884656fa5,Skype Team Substrate connector,Microsoft
+1c2909a7-6432-4263-a70d-929a3c1f9ee5,Common Data Service License Management,Microsoft
+1cda9b54-9852-4a5a-96d4-c2ab174f9edf,O365Account,Microsoft
+1d3443bd-4cbc-483e-9f09-00ba7ee54655,Microsoft Synapse Notebook Service,Microsoft
+1d78a85d-813d-46f0-b496-dd72f50a3ec0,Microsoft Azure Policy Insights,Microsoft
+1dcb1bc7-c721-498e-b2fa-bcddcea44171,Microsoft Azure Authorization Resource Provider,Microsoft
+1e2ca66a-c176-45ea-a877-e87f7231e0ee,Microsoft B2B Admin Worker,Microsoft
+1e3e4475-288f-4018-a376-df66fd7fac5f,NetworkTrafficAnalyticsService,Microsoft
+1e70cd27-4707-4589-8ec5-9bd20c472a46,Skype Presence Service,Microsoft
+1efb1569-5fd6-4938-8b8d-9f3aa07c658d,Microsoft Defender for Cloud for AI,Microsoft
+1f5530b3-261a-47a9-b357-ded261e17918,Azure Multi-Factor Auth Connector,Microsoft
+1fd5118e-2576-4263-8130-9503064c837a,Azure Communication Services,Microsoft
+1fec8e78-bce4-4aaf-ab1b-5451cc387264,Microsoft Teams,Microsoft
+207a6836-d031-4764-a9d8-c1193f455f21,Conference Auto Attendant,Microsoft
+2087bd82-7206-4c0a-b305-1321a39e5926,Microsoft To-Do,Microsoft
+20e940b3-4c77-4b0b-9a53-9e16a1b010a7,MarketplaceAPI ISV,Microsoft
+212d21d5-fcdc-4efb-9ece-746920525a61,Syncto msxfaqdev.onmicrosoft.com,Microsoft
+21353d9d-3ce9-4c8b-8c20-04ff792da600,NoSpamProxy,Microsoft
+21a8a852-89f4-4947-a374-b26b2db3d365,IC3 Long Running Operations Service,Microsoft
+22098786-6e16-43cc-a27d-191a01a1e3b5,Microsoft To-Do client,Microsoft
+2220bbc4-4518-4fef-aac6-c6f32e9f9fd1,Customer Experience Platform PROD,Microsoft
+224a7b82-46c9-4d6b-8db0-7360fb444681,Microsoft Modern Contact Master,Microsoft
+22618bd1-b6aa-45f0-8ebd-718d158d888d,TrustedPublishersProxyService-DoD,Microsoft
+226e4631-c980-4b11-9c96-5e26bb14dafc,Prod M365FLWPClient Prod,Microsoft
+22d27567-b3f0-4dc2-9ec2-46ed368ba538,Reading Assignments,Microsoft
+22d7579f-06c2-4baa-89d2-e844486adb9d,Cortana at Work Bing Services,Microsoft
+23c898c1-f7e8-41da-9501-f16571f8d097,OCPS Checkin Service,Microsoft
+257601fd-462f-4a21-b623-7f719f0f90f4,Centralized Deployment,Microsoft
+257fc75b-c7b8-434b-a467-fcfc16cb7ab6,Dynamics CRM TIP SRS,Microsoft
+2634dd23-5e5a-431c-81ca-11710d9079f4,Microsoft Stream Service,Microsoft
+265378aa-7259-4b82-af51-0c97c6cbc0ca,ApolloNonProdFirstParty,Microsoft
+268761a2-03f3-40df-8a8b-c3db24145b6b,Universal Store Native Client,Microsoft
+26a18ebc-cdf7-4a6a-91cb-beb352805e81,Skype Teams Calling API Service,Microsoft
+26a4ae64-5862-427f-a9b0-044e62572a4f,Microsoft Intune Checkin,Microsoft
+26a7ee05-5602-4d76-a7ba-eae8b7b67941,Windows Search,Microsoft
+270efc09-cd0d-444b-a71f-39af4910ec45,Windows Cloud Login,Microsoft
+273404b8-7ebc-4360-9f90-b40417f77b53,Microsoft Exact Data Match Service,Microsoft
+27922004-5251-4030-b22d-91ecd9a37ea4,Outlook Mobile,Microsoft
+2793995e-0a7d-40d7-bd35-6968ba142197,My Apps,Microsoft
+27b24f1f-688b-4661-9594-0fdfde972edc,Skype Business Voice Directory,Microsoft
+27f13ec4-0f4e-4840-b547-1a0181666256,PowerApps CDS Service,Microsoft
+282c9137-f94e-4287-8223-9b60f2974e5c,PowerApps Web Player Service - apps.gov.powerapp.us,Microsoft
+291bcb22-15e5-4341-8f91-feb152d655ee,Dynamics 365 Connected Store,Microsoft
+299fa2bd-f53a-45b1-b501-1056398454bc,Dynamics 365 CCA Prod - CDS to Azure data lake,Microsoft
+29d25686-9984-4812-9340-da1820c482e4,PRTG2016,Microsoft
+2a486b53-dbd2-49c0-a2bc-278bdfc30833,Cortana at Work Service,Microsoft
+2ad88395-b77d-4561-9441-d0e40824f9bc,Dynamics 365 Development Tools,Microsoft
+2ad88395-b77d-4561-9441-d0e40824f9bc,PowerShell,Microsoft
+2b479c68-8d9b-4e27-9d85-5d74803de734,Virtual Visits App,Microsoft
+2b5e68f0-bdc2-45b0-920a-217d5cbbd505,Power Platform Governance Services - TIRPS,Microsoft
+2b61b865-d0bd-4c60-9efa-6fa934eefaac,TrustedPublishersProxyService,Microsoft
+2bb78a2a-f8f1-4bc3-8ecf-c1e15a0726e6,MicrosoftTeamsCortanaSkills,Microsoft
+2bc50526-cdc3-4e36-a970-c284c34cbd6e,Microsoft Business Office Add-in,Microsoft
+2c1229aa-16c5-4ff5-b46b-4f7fe2a2a9c8,ODBC Client Driver,Microsoft
+2c37df23-0c28-4fbf-9b2a-d5fd6277bf92,OmnichannelEngagementHubAdminApp,Microsoft
+2c9e12e5-a56c-4ba1-b768-7a141586c6fe,Viva Learning,Microsoft
+2cee05de-2b8f-45a2-8289-2a06ca32c4c8,Gmail,Microsoft
+2cf9eb86-36b5-49dc-86ae-9a63135dfa8c,Azure Traffic Manager and DNS,Microsoft
+2cfc91a4-7baa-4a8f-a6c9-5f3d279060b8,Azure Application Change Service,Microsoft
+2d4d3d8e-2be3-4bef-9f87-7875a61c29de,OneNote,Microsoft
+2db8cb1d-fb6c-450b-ab09-49b6ae35186b,Microsoft Dynamics CRM Learning Path,Microsoft
+2ddfbe71-ed12-4123-b99b-d5fc8a062a79,Microsoft Teams Admin Portal Service,Microsoft
+2e49aa60-1bd3-43b6-8ab6-03ada3d9f08b,Dynamics Data Integration,Microsoft
+2f29638c-34d4-4cf2-a16a-7caf612cee15,Microsoft Dynamics CRM for Microsoft Office Outlook,Microsoft
+2f3b013e-5dc4-4b2a-831f-47ba08353237,Microsoft Dynamics 365 Project Service Automation Add-in for Microsoft Project,Microsoft
+2f3f02c9-5679-4a5c-a605-0de55b07d135,Office 365 Information Protection,Microsoft
+2f5afa01-cdcb-4707-a62a-0803cc994c60,MS-CE-CXG-MAC-AadShadowRoleWriter,Microsoft
+2f6713e6-1e21-4a83-91b4-5bf9a2378f81,RSOProvisioningCustomerDashboard,Microsoft
+2f6713e6-1e21-4a83-91b4-5bf9a2378f81,Dynamics 365 Resource Scheduling Optimization,Microsoft
+2f7b4d11-d621-4079-9798-27f548d681f1,Power Cards,Microsoft
+2fd908ad-0664-4344-b9be-cd3e8b574c38,Microsoft.Data.SqlClient,Microsoft
+30e31aeb-977f-4f4f-a483-b61e8377b302,Microsoft Teams ADL,Microsoft
+3138fe80-4087-4b04-80a6-8866c738028a,SharePoint Notification Service,Microsoft
+31769e56-a5d1-4127-be20-47bdce049561,SharePoint Online Client Extensibility Web Application Principal,Microsoft
+3184af01-7a88-49e0-8b55-8ecdce0aa950,Azure Cost Management XCloud,Microsoft
+3196859b-8ed7-4c53-8c1d-b8ac7b6c6299,Cloud Sync,Microsoft
+319f651f-7ddb-4fc6-9857-7aef9250bd05,K8 Bridge,Microsoft
+31ba6d5c-2e14-40fb-bbcb-27dc8a1bfaf5,TeamsLinkedInLiveApp,Microsoft
+32166110-0424-4622-8b0d-4e50f4da7a74,MR.Mty.App,Microsoft
+325e8307-defd-47df-aeff-15152ea6e5bf,Prod M365FLWPService Prod,Microsoft
+328fd23b-de6e-462c-9433-e207470a5727,NFV Resource Provider,Microsoft
+331cc017-5973-4173-b270-f0042fddfd75,Power Apps API,Microsoft
+3340b944-b12e-47d0-b46b-35f08ec1d8ee,SPAuthEvent,Microsoft
+33be1cef-03fb-444b-8fd3-08ca1b4d803f,OneDrive Web,Microsoft
+341b7f3d-69b3-47f9-9ce7-5b7f4945fdbd,Azure Support - Network Watcher,Microsoft
+342f61e2-a864-4c50-87de-86abc6790d49,Power Platform Governance Services,Microsoft
+34cabb34-90ae-4aca-b8c3-c457dbedf145,PartnerCenterCustomerServiceAppProd,Microsoft
+34cc6120-8c17-428c-b5aa-bede141fb74a,Power BI Data Refresh,Microsoft
+354b5b6d-abd6-4736-9f51-1be80049b91f,Microsoft Mobile Application Management Backend,Microsoft
+3570e63c-5acf-4f3f-9f15-a49faa5120d3,PowerAppsCustomerManagementPlaneBackend,Microsoft
+3603eff4-9141-41d5-ba8f-02fb3a439cd6,Diagnostic Services Data Access,Microsoft
+363a906a-1ceb-41ea-9f20-884c694f2fc2,ApiHub-Connectors-DoD,Microsoft
+36ee54ac-414c-41ef-afde-2ddfd25d5408,ApiHub-Connectors-GCCHigh,Microsoft
+37182072-3c9c-4f6a-a4b3-b3f91cacffce,AzureSupportCenter,Microsoft
+372140e0-b3b7-4226-8ef9-d57986796201,Microsoft Azure Windows Virtual Machine Sign-in,Microsoft
+3734c1a4-2bed-4998-a37a-ff1a9e7bf019,Microsoft Azure Container Apps - Data Plane,Microsoft
+37ff607d-6be1-4c1b-a5f8-e5ad92b55975,Lobe,Microsoft
+3829f069-1c33-45dd-84ab-2465f4282677,Azure Signup Api,Microsoft
+3852314e-aab9-42c3-a859-5b5b88a90000,ConnectedFieldServiceDeployment,Microsoft
+386ce8c0-7421-48c9-a1df-2a532400339f,Power Automate Desktop For Windows,Microsoft
+38808189-fa7a-4d8a-807f-eba01edacca6,AzNet Security Guard,Microsoft
+38a893b6-d74c-4786-8fe7-bc3b4318e881,ProcessSimpleGCC,Microsoft
+38c77d00-5fcb-4cce-9d93-af4738258e3c,MicrosoftUnifiedCustomerIntelligence,Microsoft
+38d143fa-a9d8-4e3e-b073-81f3fefeaf95,Microsoft Teams IP Core Service,Microsoft
+38df11dd-582e-4207-be6f-b214675f44a1,SEAL All credentials,Microsoft
+38ec0b21-8bde-4473-950b-819ceb3ed233,SuplariDev,Microsoft
+394866fc-eedb-4f01-8536-3ff84b16be2a,Microsoft People Cards Service,Microsoft
+3957683c-3a48-4a6c-8706-a6e2d6883b02,DYN365_CS_MESSAGING,Microsoft
+3957683c-3a48-4a6c-8706-a6e2d6883b02,Omnichannel for CS Provisioning App Primary,Microsoft
+39624784-6cbe-4a60-afbe-9f46d10fdb27,Skype For Business Powershell Server Application,Microsoft
+396e7f4b-41ea-4851-b04d-65de6cf1b4a3,Azure AD Identity Governance - SPO Management,Microsoft
+39aaf054-81a5-48c7-a4f8-0293012095b9,IC3 Gateway,Microsoft
+39e6ea5b-4aa4-4df2-808b-b6b5fb8ada6f,Dynamics Provision,Microsoft
+3a225c96-d62a-44ce-b3ec-bd4e8e9befef,Dynamics 365 Human Resources LinkedIn Adapter App,Microsoft
+3a3b6b87-84e2-4ad2-aa37-d76c339371a4,Storage Data Management RP Prod FPA,Microsoft
+3aa5c166-136f-40eb-9066-33ac63099211,O365 Customer Monitoring,Microsoft
+3ab9b3bc-762f-4d62-82f7-7e1d653ce29f,Microsoft Volume Licensing,Microsoft
+3af5a1e8-2459-45cb-8683-bcd6cccbcc13,Azure Smart Alerts,Microsoft
+3af5adde-460d-4bc1-ada0-fc648af8fefb,ChatMigrationService1P,Microsoft
+3b511579-5e00-46e1-a89e-a6f0870e2f5a,Windows 365 Portal,Microsoft
+3bc2296e-aa22-4ed2-9e1e-946d05afa6a2,SharePoint Online Web Client Extensibility Isolated,Microsoft
+3c31d730-a768-4286-a972-43e9b83601cd,Demeter.WorkerRole,Microsoft
+3c896ded-22c5-450f-91f6-3d1ef0848f6e,WeveEngine,Microsoft
+3cf468b4-12a0-43cd-aa3f-3f39210d14cf,Quota Service Core - ARM Client,Microsoft
+3cf6df92-2745-4f6f-bbcf-19b59bcdb62a,Office 365 Client Admin,Microsoft
+3cf798a6-b0c5-4d5c-9645-b5273d471fc5,teamsupgradeorchestrator-app,Microsoft
+3d3f56ed-9c38-4480-b172-0fa5d8838516,TrustedPublishersProxyServicePPE,Microsoft
+3df5ed2f-8f6d-4f42-9614-454d2514cbb7,Lynx Portal - PROD,Microsoft
+3e050dd7-7815-46a0-8263-b73168a42c10,Teams Approvals,Microsoft
+3e53edf8-185f-4fb1-b849-97faed43d817,Partner Accounts Graph,Microsoft
+3e62f81e-590b-425b-9531-cad6683656cf,PowerApps - apps.powerapps.com,Microsoft
+3eb95cef-b10f-46fe-94e0-969a3d4c9292,Office 365 Import Service,Microsoft
+3edcf11f-df80-41b2-a5e4-7e213cca30d1,Azure Application Change Service,Microsoft
+3f6aecb4-6dbf-4e45-9141-440abdced562,PROD Microsoft Defender For Cloud XDR,Microsoft
+40775b29-2688-46b6-a3b5-b256bd04df9f,Microsoft Information Protection API,Microsoft
+409eb3e8-dfc5-4fd6-b2db-9eabc43810ba,25-Reports Dev,Microsoft
+40c49ff3-c6ae-436d-b28e-b8e268841980,Microsoft Azure Network Copilot,Microsoft
+441509e5-a165-4363-8ee7-bcf0b7d26739,DWEngineV2,Microsoft
+44a02aaa-7145-4925-9dcd-79e6e1b94eff,MicrosoftDynamics365OfficeAppsIntegration,Microsoft
+44a02aaa-7145-4925-9dcd-79e6e1b94eff,Microsoft Dynamics 365 Apps Integration,Microsoft
+44a34657-125d-4be1-b08d-87a07b336d24,PowerApps - play.apps.appsplatform.us,Microsoft
+44b7b882-eb46-485c-9c78-686f6b67b176,AML Registries,Microsoft
+44f229e1-5c76-4d68-8b7c-83cbfd54ab7a,Dynamics 365 Sales Service,Microsoft
+4580fd1d-e5a3-4f56-9ad1-aab0e3bf8f76,Call Recorder,Microsoft
+45a330b1-b1ec-4cc1-9161-9f03992aa49f,Windows Store for Business,Microsoft
+461e8683-5575-4561-ac7f-899cc907d62a,Azns AAD Webhook,Microsoft
+4660504c-45b3-4674-a709-71951a6b0763,Microsoft Invitation Acceptance Portal,Microsoft
+46e9667d-34e6-43d8-a494-6759b3ae6a5e,Biz Apps Demo Hub Prod,Microsoft
+470d0752-cb06-49b2-ac83-5023fc23adae,MicrosoftFlowGCCHigh,Microsoft
+4747d38e-36c5-4bc3-979b-b0ef74df54d1,PushChannel,Microsoft
+475226c6-020e-4fb2-8a90-7a972cbfc1d4,PowerApps Service,Microsoft
+4787c7ff-7cea-43db-8d0d-919f15c6354b,D365SalesProductivityProvisioning,Microsoft
+4787c7ff-7cea-43db-8d0d-919f15c6354b,Dynamics 365 Viva Sales,Microsoft
+47ee738b-3f1a-4fc7-ab11-37e4822b007e,Azure AD Application Proxy,Microsoft
+481115cb-6d15-4cc0-8caf-f2fee7bfbd2b,IC3 Modern Effective Config Worker,Microsoft
+4813382a-8fa7-425e-ab75-3b753aab3abb,Microsoft Authenticator App,Microsoft
+486c78bf-a0f7-45f1-92fd-37215929e116,GatewayRP,Microsoft
+48ac35b8-9aa8-4d74-927d-1f4a14a0b239,Skype and Teams Tenant Admin API,Microsoft
+48af08dc-f6d2-435f-b2a7-069abd99c086,Connectors,Microsoft
+4906f920-9f94-4f14-98aa-8456dd5f78a8,Dynamics CRM Unified Service Desk,Microsoft
+4990cffe-04e8-4e8b-808a-1175604b879f,Microsoft Partner,Microsoft
+499b84ac-1321-427f-aa17-267ca6975798,Azure DevOps,Microsoft
+4ac7d521-0382-477b-b0f8-7e1d95f85ca2,Azure Analysis Services,Microsoft
+4ade18ba-d41e-45d6-a563-97c67fc0be15,Microsoft Dynamics NRD Service,Microsoft
+4bfd5d66-9285-44a1-bb14-14953e8cdf5e,Audit GraphAPI Application,Microsoft
+4c1a3aed-b389-4824-99b0-514c07906851,Intune DeviceCheckIn ConfidentialClient,Microsoft
+4c4f550b-42b2-4a16-93f9-fdb9e01bb6ed,Targeted Messaging Service,Microsoft
+4c8f074c-e32b-4ba7-b072-0f39d71daf51,IPSubstrate,Microsoft
+4c9fc70a-8d18-4528-9113-c6f1318c4d89,CAP Package Deployer Service,Microsoft
+4cba1704-a0c1-45ee-9d41-fe75b4ef9190,TeamsChatServiceApp,Microsoft
+4d079b4c-cab7-4b7c-a115-8fd51b6f8239,SQL DotNet Client,Microsoft
+4e291c71-d680-4d0e-9640-0a3358e31177,Power Apps,Microsoft
+4e291c71-d680-4d0e-9640-0a3358e31177,PowerApps,Microsoft
+4e3c31ca-141f-45e5-9db0-d600d232dbaf,carius.de,Microsoft
+4e445925-163e-42ca-b801-9073bfa46d17,SharePoint Home Notifier,Microsoft
+4eaa7769-3cf1-458c-a693-e9827e39cc95,M365 Lighthouse API,Microsoft
+4f547b5f-c3f7-4d2c-a14f-0f8f1286d7d5,OneDriveLTI,Microsoft
+50351660-e7b1-4621-8bc8-8503296a5535,MicrosoftFlowGCC,Microsoft
+507bc9da-c4e2-40cb-96a7-ac90df92685c,Office 365 Reports,Microsoft
+509e4652-da8d-478d-a730-e9d4a1996ca4,Azure Resource Graph,Microsoft
+50d8616b-fd4f-4fac-a1c9-a6a9440d7fe0,OMSAuthorizationServicePROD,Microsoft
+50d9b7e0-07b6-4615-a8ae-f7f017db392a,Supply Chain Windblade Development,Microsoft
+50e95039-b200-4007-bc97-8d5790743a63,Azure Virtual Desktop ARM Provider,Microsoft
+51133ff5-8e0d-4078-bcca-84fb7f905b64,Microsoft Teams Mailhook,Microsoft
+51b5e278-ed7e-42c6-8787-7ff93e92f577,Narada Notification Service,Microsoft
+51f81489-12ee-4a9e-aaae-a2591f45987d,Dynamics 365 Example Client Application,Microsoft
+51f81489-12ee-4a9e-aaae-a2591f45987d,XrmToolBox,Microsoft
+5225545c-3ebd-400f-b668-c8d78550d776,Office Agent Service,Microsoft
+5443ef98-eb7c-4354-8367-f35dffe3cba7,DeflectionPreProd,Microsoft
+546068c3-99b1-4890-8e93-c8aeadcfe56a,Common Data Service - Azure Data Lake Storage,Microsoft
+546068c3-99b1-4890-8e93-c8aeadcfe56a,Common Data Service Managed Data Lake Service,Microsoft
+546c016b-1ee7-4e0b-b68b-ea8d0f43a239,PRTG Statusmonitor,Microsoft
+55441455-2f54-42b5-bc99-93e21cd4ae28,Office Enterprise Protection Service,Microsoft
+557c67cf-c916-4293-8373-d584996f60ae,Configuration Manager Microservice,Microsoft
+55bdc56c-2b15-4538-aa37-d0c008c8c430,IC3 Gateway TestClone,Microsoft
+562db366-1b96-45d2-aa4a-f2148cef2240,Diagnostic Services Trusted Storage Access,Microsoft
+56823b05-67d8-413a-b6ab-ad19d7710cf2,CAS API Security RP,Microsoft
+56c1da01-2129-48f7-9355-af6d59d42766,Graph Connector Service,Microsoft
+57084ef3-d413-4087-a28f-f6f3b1ad7786,Branch Connect Web Service,Microsoft
+57336123-6e14-4acc-8dcf-287b6088aa28,Microsoft Whiteboard Client,Microsoft
+579d9c9d-4c83-4efc-8124-7eba65ed3356,Azure Compute,Microsoft
+57e3b30c-4cc6-4731-bb73-d3d2fdf8e6e4,NoSpamProxy User Import,Microsoft
+57fb890c-0dab-4253-a5e0-7188c88b2bb4,SharePoint Online Client,Microsoft
+57fcbcfa-7cee-4eb1-8b25-12d2030b4ee0,Microsoft Flow,Microsoft
+585738fa-4b8c-4f90-b926-7eab8c498c69,PowerAppsCustomerManagementPlaneBackend,Microsoft
+5861f7fb-5582-4c1a-83c0-fc5ffdb531a6,Azure RBAC Data Plane,Microsoft
+589d5083-6f11-4d30-a62a-a4b316a14abf,Azure Key Vault Managed HSM,Microsoft
+58acb57d-f51b-4993-8f4a-4e41ad77e481,high.create.powerapps.us,Microsoft
+58c746b0-a0b0-4647-a8f6-12dde5981638,Azure AD Identity Governance Insights,Microsoft
+58ea322b-940c-4d98-affb-345ec4cccb92,M365 Pillar Diagnostics Service,Microsoft
+58ef1dbd-684c-47d6-8ffc-61ea7a197b95,AzNS EventHub Action,Microsoft
+595d87a1-277b-4c0a-aa7f-44f8a068eafc,Microsoft.SupportTicketSubmission,Microsoft
+59d7fccf-1f97-4a79-bb78-e722112f9862,Dynamics 365 Sales,Microsoft
+5a24b264-c8f3-474d-92f6-a998cca942c1,Dynamics 365 for Marketing,Microsoft
+5a4a238f-f186-4fff-95bd-d3e70f9e1a08,Privacy Management,Microsoft
+5a807f24-c9de-44ee-a3a7-329e88a00ffc,Messaging Bot API Application,Microsoft
+5a8800f2-f31d-4654-9bed-f5b368c703f8,Gatekeeper PPE App,Microsoft
+5b20c633-9a48-4a5f-95f6-dae91879051f,Azure Information Protection,Microsoft
+5b598b66-3f6c-40dc-81d7-47e859a91192,wiki.js,Microsoft
+5bab4c7f-51c3-479b-a199-06b31afecc8f,Gatekeeper Prod App,Microsoft
+5bbd7e75-c518-4980-8296-dcf58088e4e3,MultiTenantTest,Microsoft
+5bdbebb2-509f-458e-b56e-d0b934dfdafa,DynamicsInstaller,Microsoft
+5bfe8a29-054e-4348-9e7a-3981b26b125f,Bing Places for Business,Microsoft
+5c17a0cf-5493-4b86-b23d-dabc1cc46f5a,Minit Desktop for Windows,Microsoft
+5d21c8e8-6d68-4b62-a3a5-bc1900513fad,make.high.powerapps.us,Microsoft
+5d661950-3475-41cd-a2c3-d671a3162bc1,Microsoft Outlook,Microsoft
+5da7367f-09c8-493e-8fd4-638089cddec3,CABProvisioning,Microsoft
+5e2795e3-ce8c-4cfb-b302-35fe5cd01597,Designer,Microsoft
+5e3ce6c0-2b1f-4285-8d4b-75ee78787346,Microsoft Teams Web Client,Microsoft
+5e5e43d4-54da-4211-86a4-c6e7f3715801,Azure Regional Service Manager,Microsoft
+5e72ef24-048b-4aae-8fd6-8653ce2d6760,PowerPlatform-commondataserviceforapps-Connector,Microsoft
+5ea2d1b0-1713-4069-a764-1be8f40a6210,EdX.org,Microsoft
+600def3d-4cdb-465f-9dad-dce96b255d6a,DeflectionTest,Microsoft
+601d4e27-7bb3-4dee-8199-90d47d527e1c,Office Change Management,Microsoft
+60216f25-dbae-452b-83ae-6224158ce95e,Microsoft Dynamics CRM App for Outlook,Microsoft
+603b8c59-ba28-40ff-83d1-408eee9a93e5,Verifiable Credentials Issuer Service,Microsoft
+607e1f95-b519-4bac-8a15-6196f40e8977,StreamToSubstrateRepl,Microsoft
+607ece82-f922-494f-88b8-30effaf12214,Azure Machine Learning Compute,Microsoft
+60b2e7d5-a27f-426d-a6b1-acced0846fdf,IpAddressManager,Microsoft
+60c8bde5-3167-4f92-8fdb-059f6176dc0f,Enterprise Roaming and Backup,Microsoft
+60ca1954-583c-4d1f-86de-39d835f3e452,Radius Aad Syncer,Microsoft
+60d240cc-7621-469e-80f1-584c53e9cafa,DYN365AISERVICEINSIGHTS,Microsoft
+60e6cd67-9c8c-4951-9b3c-23c25a2169af,Compute Resource Provider,Microsoft
+60f38cf4-a0bf-4fdf-b0b5-14d3131bc031,make.test.powerapps.com,Microsoft
+618dd325-23f6-4b6f-8380-4df78026e39b,Microsoft 365 Admin portal,Microsoft
+61a63147-3824-45f5-a186-ace3f4c9daeb,MsgDataMgmt,Microsoft
+61ae9cd9-7bca-458c-affc-861e2f24ba3b,Windows Update for Business Deployment Service,Microsoft
+61c28d8b-814f-4a57-9c7f-8cd0580aead2,Iris Provider EOP Web Service,Microsoft
+61c50b89-703d-431d-8d80-1e8618748775,Azure Machine Learning OpenAI,Microsoft
+61ccfc51-60d1-470a-9dca-f78fcf640d23,MicrosoftServiceCopilot-Prod,Microsoft
+61d02d70-ab6c-4569-be48-787ea2cda65d,Dynamics 365 Analytics,Microsoft
+6204c1d1-4712-4c46-a7d9-3ed63d992682,Microsoft Flow Portal,Microsoft
+6208afad-753e-4995-bbe1-1dfd204b3030,Teams ACL management service,Microsoft
+62b732f7-fc71-40bc-b27d-35efcb0509de,Microsoft Teams AadSync,Microsoft
+62c559cd-db0c-4da0-bab2-972528c65d42,ACR-Tasks-Network,Microsoft
+62fd1447-0ef3-4ab7-a956-7dd05232ecc1,Office Scripts Service,Microsoft
+630e0ac2-6aa6-41bd-b950-5ade41828d3a,PowerAutomate-ProcessMining-DEV,Microsoft
+637fcc9f-4a9b-4aaa-8713-a2a3cfda1505,Dynamics CRM Online Administration,Microsoft
+63e61dc2-f593-4a6f-92b9-92e4d2c03d4f,Microsoft Intune SCCM Connector,Microsoft
+63ea3c01-7483-456e-8073-d3fed34fbdda,Azure Container Scale Sets - CS2,Microsoft
+644c1b11-f63f-45fa-826b-a9d2801db711,CompliancePolicy,Microsoft
+64a7b174-5779-4506-b54c-fbb0d80f1c9b,CMAT,Microsoft
+64f79cb9-9c82-4199-b85b-77e35b7dcbcb,Microsoft Teams Bots,Microsoft
+655db33f-4580-4e63-bad1-4618764badb9,MicrosoftDynamics365MRGuidesCoreClient,Microsoft
+65d91a3d-ab74-42e6-8a2f-0add61688c74,Microsoft Approval Management,Microsoft
+6608bce8-e060-4e82-bfd2-67ed4f60262f,AML Inferencing Frontdoor,Microsoft
+660d4be7-2665-497f-9611-a42c2668dbce,Microsoft Fluid Framework Preview,Microsoft
+66244124-575c-4284-92bc-fdd00e669cea,IAMTenantCrawler,Microsoft
+66375f6b-983f-4c2c-9701-d680650f588f,Microsoft Planner,Microsoft
+6682cfa5-2710-44c9-adb8-5ac9d76e394a,MTS,Microsoft
+66a88757-258c-4c72-893c-3e8bed4d6899,QueryFormulationService,Microsoft
+66a88757-258c-4c72-893c-3e8bed4d6899,Office 365 Search Service,Microsoft
+66c23536-2118-49d3-bc66-54730b057680,Skype Core Calling Service,Microsoft
+67e3df25-268a-4324-a550-0de1c7f97287,Microsoft Office Web Apps Service,Microsoft
+6872b314-67ab-4a16-98e7-a663b0f772c3,Office365 Shell SS-Server Default,Microsoft
+69dda2a9-33ca-4ed0-83fb-a9b7b8973ff4,Azure Files,Microsoft
+6a0a243c-0886-468a-a4c2-eff52c7445da,Application Insights Configuration Service,Microsoft
+6a0ec4d3-30cb-4a83-91c0-ae56bc0e3d26,Azure Container Registry,Microsoft
+6abc93dc-978e-48a3-8e54-458e593ed8cf,Customer Service Trial PVA - readonly,Microsoft
+6b11041d-54a2-4c4f-96a2-6053efe46d8b,HoloLens Camera Roll Upload,Microsoft
+6b3368c6-61d2-4a72-854c-42d1c4e71fed,Azure Cost Management Scheduled Actions,Microsoft
+6b5b3617-ba00-46f6-8770-1849282a189a,Microsoft Defender For Cloud,Microsoft
+6b91db1b-f05b-405a-a0b2-e3f60b28d645,M365AdminServices,Microsoft
+6b91db1b-f05b-405a-a0b2-e3f60b28d645,M365 Admin Services,Microsoft
+6bb8e274-af5d-4df2-98a3-4fd78b4cafd9,Azure Container Instance Service,Microsoft
+6bc3b958-689b-49f5-9006-36d165f30e00,Teams CMD Services Artifacts,Microsoft
+6bccf540-eb86-4037-af03-7fa058c2db75,Geneva Alert RP,Microsoft
+6bf85cfa-ac8a-4be5-b5de-425a0d0dc016,Microsoft Entra AD Synchronization Service,Microsoft
+6d057c82-a784-47ae-8d12-ca7b38cf06b4,Networking-MNC,Microsoft
+6d0e3799-39d5-4bfe-b31e-182eb3a97892,MSXFAQGraphUser,Microsoft
+6d32b7f8-782e-43e0-ac47-aaad9f4eb839,Permission Service O365,Microsoft
+6da466b6-1d13-4a2c-97bd-51a99e8d4d74,Exchange Office Graph Client for AAD - Interactive,Microsoft
+6e02f8e9-db9b-4eb5-aa5a-7c8968375f68,NetworkVerifier,Microsoft
+6e2cffc9-52e7-4bfa-8155-be5c1dacd81c,Microsoft Defender for Cloud Defender Kubernetes Agent,Microsoft
+6e7d203a-179d-4ae0-87da-a77dd8aa3135,CrmSalesInsightsRA,Microsoft
+6e99704e-62d5-40f6-b2fe-90aafbe3a710,OCaaS Experience Management Service,Microsoft
+6ea8091b-151d-447a-9013-6845b83ba57b,AD Hybrid Health,Microsoft
+6eb29b24-9d89-4f26-bf2f-9a84ed2499b8,Common Data Service Global Discovery Service,Microsoft
+6ec6a75c-d04e-4613-92da-069f88c74a13,Dynamics 365 Customer Insights Prod - CDS to Azure data lake,Microsoft
+6f0478d5-61a3-4897-a2f2-de09a5a90c7f,WindowsUpdate-Service,Microsoft
+6f459c5d-d670-409b-83a6-68b040f4cb78,Customer Experience Platform FRE PROD,Microsoft
+6f7d0213-62b1-43a8-b7f4-ff2bb8b7b452,Dual-write,Microsoft
+6f82282e-0070-4e78-bc23-e6320c5fa7de,Microsoft Discovery Service,Microsoft
+703e2651-d3fc-48f5-942c-74274233dba8,Microsoft Dynamics ERP Microservices CDS,Microsoft
+707be275-6b9d-4ee7-88f9-c0c2bd646e0f,Dynamic Alerts,Microsoft
+709110f7-976e-4284-8851-b537e9bcb187,Microsoft Device Management Enrollment,Microsoft
+71234da4-b92f-429d-b8ec-6e62652e50d7,Microsoft Customer Engagement Portal,Microsoft
+71684101-1068-40b0-a0da-062710e1040d,Finance and Operations Runtime Integration User - TST Geo,Microsoft
+71771190-1ba1-42da-9525-79a0e59aa677,Mvpexternalaccounts,Microsoft
+719640cd-0337-4b0c-8e6a-431271371fab,make.test.powerapps.com,Microsoft
+71a7c376-13e6-4100-968e-92ce98c5d3d2,Weve,Microsoft
+7255edad-9269-44d0-b153-92ceffbf86fa,InsightsAppsPlatform,Microsoft
+730d33da-0894-409f-a907-c577151719c5,Flow-RP,Microsoft
+737d58c1-397a-46e7-9d12-7d8c830883c2,Azure Marketplace Container Management API,Microsoft
+73a510c3-9946-46dd-b5ae-a8f0ae68fd04,Azure API Management Portal extension,Microsoft
+73c2949e-da2d-457a-9607-fcc665198967,Azure Purview,Microsoft
+74bcdadc-2fdc-4bb3-8459-76d06952a0e9,Microsoft Intune Web Company Portal,Microsoft
+75513c96-801d-4559-830a-6754de13dd19,M365 Label Analytics,Microsoft
+7557eb47-c689-4224-abcf-aef9bd7573df,Skype for Business,Microsoft
+75cba773-c367-4ba4-8d4f-65f91b68c384,Grade Sync,Microsoft
+75eb2b80-011a-4693-9a47-7971c853603c,make.powerpages.microsoft.com,Microsoft
+75efb5bc-18a1-4e7b-8a66-2ad2503d79c6,Microsoft Teams Retail Service,Microsoft
+765fe668-04e7-42ba-aec0-2c96f1d8b652,Exchange Office Graph Client for AAD - Noninteractive,Microsoft
+76c92352-c057-4cc2-9b1e-f34c32bc58bd,Azure Container Registry Application,Microsoft
+78462efa-e271-409c-a90b-ce3fbd93538a,Microsoft Teams Admin Gateway Service,Microsoft
+789e8929-0390-42a2-8934-0f9dafb8ec89,Exchange Rbac,Microsoft
+78e7bc61-0fab-4d35-8387-09a8d2f5a59d,Yggdrasil,Microsoft
+794ded15-70c6-4bcd-a0bb-9b7ad530a01a,Microsoft Intune Advanced Threat Protection Integration,Microsoft
+797f4846-ba00-4fd7-ba43-dac1f8f63013,Windows Azure Service Management API,Microsoft
+79d7fb34-4bef-4417-8184-ff713af7a679,Azure Bastion,Microsoft
+7a274595-3618-4e6f-b54e-05bb353e0153,Teams NRT DLP Service,Microsoft
+7a575ec8-8d12-42eb-9edc-b93f3aa92c48,MicrosoftCrmDataSync@microsoft.com,Microsoft
+7a7f0ba2-519f-49eb-9b86-1a967ba231f3,CatalogServiceTest,Microsoft
+7ab7862c-4c57-491e-8a45-d52a7e023983,App Service,Microsoft
+7abdc2e3-67d5-4ccf-8138-e133192788e3,MicrosoftFlowDoD,Microsoft
+7b1eab0a-2e92-41ad-8800-ea860f3b093a,run.events,Microsoft
+7b58f833-4438-494c-a724-234928795a67,Directory and Policy Cache,Microsoft
+7bf610f7-ecaf-43a2-9dbc-33b14314d6fe,Microsoft.SecurityDevOps Resource Provider,Microsoft
+7c33bfcb-8d33-48d6-8e60-dc6404003489,Network Watcher,Microsoft
+7c4f9118-450a-4e75-b96b-df2d0cac4c0d,d365-dani-exceladdinprod,Microsoft
+7c99d979-3b9c-4342-97dd-3239678fb300,Data Classification Service,Microsoft
+7cd684f4-8a78-49b0-91ec-6a35d38739ba,Azure Logic Apps,Microsoft
+7d3471e1-ec8b-4655-92f3-bb331362b5ae,Azure Storage Actions Resource Provider Service,Microsoft
+7dcff627-a295-4553-9229-b1f3513f82a8,Power Platform Data Analytics,Microsoft
+7df0a125-d3be-4c96-aa54-591f83ff541c,Microsoft Flow Service,Microsoft
+7e313d81-57dd-4bdd-906e-337963583de3,Intune DeviceDirectory ConfidentialClient,Microsoft
+7e3bc4fd-85a3-4192-b177-5b8bfc87f42c,Microsoft Azure Container Apps - Control Plane,Microsoft
+7e468355-e4db-46a9-8289-8d414c89c43c,Federated Profile Service,Microsoft
+7e9f2fca-0cd8-4a6c-a1a0-7ffe48aec7c6,Intune Remote Help,Microsoft
+7f0d9978-eb2a-4974-88bd-f22a3006fe17,Intune DiagnosticService,Microsoft
+7f15f9d9-cad0-44f1-bbba-d36650e07765,Azure Synapse Link for Dataverse,Microsoft
+7f67af8a-fedc-4b08-8b4e-37c4d127b6cf,Power BI Desktop,Microsoft
+7f98cb04-cd1e-40df-9140-3bf7e2cea4db,JDBC Client Driver,Microsoft
+803ee9ca-3f7f-4824-bd6e-0b99d720c35c,Azure Media Service,Microsoft
+80ccca67-54bd-44ab-8625-4b79c4dc7775,Protection Center,Microsoft
+80dbdb39-4f33-4799-8b6f-711b5e3e61b6,Billing,Microsoft
+810dcf14-1858-4bf2-8134-4c369fa3235b,AzureADIdentityGovernanceEntitlementManagement,Microsoft
+810dcf14-1858-4bf2-8134-4c369fa3235b,Azure AD Identity Governance - Entitlement Management,Microsoft
+81172f0f-5d81-47c7-96f6-49c58b60d192,Microsoft Defender for Cloud MultiCloud Onboarding,Microsoft
+81473081-50b9-469a-b9d8-303109583ecb,Cortana Runtime Service,Microsoft
+823dfde0-1b9a-415a-a35a-1ad34e16dd44,Microsoft Teams Wiki Images Migration,Microsoft
+82f45fb0-18b4-4d68-8bed-9e44909e3890,Meeting Migration Service,Microsoft
+8338dec2-e1b3-48f7-8438-20c30a534458,ViewPoint,Microsoft
+83e638ef-7885-479f-bbe8-9150acccdb3d,CloudynAzureCollector,Microsoft
+844cca35-0656-46ce-b636-13f48b0eecbd,Microsoft Stream Mobile Native,Microsoft
+8463278f-7a65-4b3d-903c-5e66a2ad1164,Mix Tools API,Microsoft
+84a0e9dd-6e58-4aad-82af-ebe485acd09d,Hubble Media Service,Microsoft
+84e37c07-7362-4d9f-b4b1-09be02be0195,DAMS PROD CL,Microsoft
+8578e004-a5c6-46e7-913e-12f58912df43,Power Platform API,Microsoft
+870c4f2e-85b6-4d43-bdda-6ed9a579b725,Microsoft Information Protection Sync Service,Microsoft
+871c010f-5e61-4fb1-83ac-98610a7e9110,MicrosoftPowerBI,Microsoft
+87223343-80b1-4097-be13-2332ffa1d666,Outlook Web App Widgets,Microsoft
+872cd9fa-d31f-45e0-9eab-6e460a02d1f1,Visual Studio,Microsoft
+87684a6d-f115-436c-a231-6a4d08eb01a6,Dynamics 365 CCA Data analytics Prod - CDS to Azure data lake,Microsoft
+87749df4-7ccf-48f8-aa87-704bad0e0e16,Microsoft Teams - Device Admin Agent,Microsoft
+87e86b91-9ae3-4679-b68a-471fe50be746,Microsoft Managed Policy Manager,Microsoft
+883d98cb-7d92-43b7-a194-07e51a2fa5bb,Media Recording for Dynamics 365 Sales - TIP,Microsoft
+886d9650-b672-4531-b16f-4617b5492d2f,AppDeploymentOrchestration,Microsoft
+88884730-8181-4d82-9ce2-7d5a7cc7b81e,SharePoint Notification Service,Microsoft
+88c57617-94ff-4043-a396-8a85a8d38922,Business Central to Common Data Service,Microsoft
+8909aac3-be91-470c-8a0b-ff09d669af91,Microsoft Parature Dynamics CRM,Microsoft
+89b4a753-031a-4c47-95aa-168ce8418c8a,Mover OneDrive Single User,Microsoft
+89bee1f7-5e6e-4d8a-9f3d-ecd601259da7,Office365 Shell WCSS-Client,Microsoft
+89e9c2d3-7281-441d-922a-f067e03ba840,Skype and Teams Real Time Telemetry,Microsoft
+8a486a0a-d2af-4811-b9c1-2174c712804a,MastDiagnosticsApp,Microsoft
+8a753eec-59bc-4c6a-be91-6bf7bfe0bcdf,Teams Application Gateway,Microsoft
+8acd33ea-7197-4a96-bc33-d7cc7101262f,Samsung Email,Microsoft
+8ad75a3e-ae97-457c-baab-65bd5c95389f,BAGSolutionsInstallerTest,Microsoft
+8ae6a0b1-a07f-4ec9-927a-afb8d39da81c,Microsoft Device Management EMM API,Microsoft
+8b3391f4-af01-4ee8-b4ea-9871b2499735,O365 Secure Score,Microsoft
+8b62382d-110e-4db8-83a6-c7e8ee84296a,AI Builder Prod - CDS to Azure data lake,Microsoft
+8b62382d-110e-4db8-83a6-c7e8ee84296a,PowerAI,Microsoft
+8b66798c-a359-423d-8d71-567ee6da1016,Dynamics 365 Customer Insights - Consent - DEV,Microsoft
+8bbf8725-b3ca-4468-a217-7c8da873186e,DeploymentScheduler,Microsoft
+8bdebf23-c0fe-4187-a378-717ad86f6a53,ResourceHealthRP,Microsoft
+8bea2130-23a1-4c09-acfb-637a9fb7c157,M365 Pillar Diagnostics Service API,Microsoft
+8c04f0eb-27fc-44cc-9e48-914b9202890a,ApolloProdFirstParty,Microsoft
+8c1a9936-578e-4d13-9bd9-9afe53ef7de8,Finance Copilot,Microsoft
+8c420feb-03df-47cc-8a05-55df0cf3064b,AzureUpdateCenter,Microsoft
+8c59ead7-d703-4a27-9e55-c96a0054c8d2,My Profile,Microsoft
+8c8fbf21-0ef3-4f60-81cf-0df811ff5d16,Power Query Online GCC-L5,Microsoft
+8cae6e77-e04e-42ce-b5cb-50d82bce26b1,Microsoft Policy Insights Provider Data Plane,Microsoft
+8d25f88c-09fe-41eb-9ee1-0545adf985df,Dynamics 365 Field Service,Microsoft
+8d3a7d3c-c034-4f19-a2ef-8412952a9671,Microsoft Office Licensing Service,Microsoft
+8d605dfc-1a04-4da6-9be2-8426724af3f3,Power Platform Authorization Service PROD,Microsoft
+8dc29313-29fc-4049-9e83-4abc54578e26,PowerShell Gallery [PROD],Microsoft
+8e0e8db5-b713-4e91-98e6-470fed0aa4c2,Microsoft Azure Signup Portal,Microsoft
+8e14e873-35ba-4720-b787-0bed94370b17,Microsoft Teams Targeting Application,Microsoft
+8edd93e1-2103-40b4-bd70-6e34e586362d,Windows Azure Security Resource Provider,Microsoft
+8ee8fdad-f234-4243-8f3b-15c294843740,Microsoft Threat Protection,Microsoft
+8f348934-64be-4bb2-bc16-c54c96789f43,EDU Assignments,Microsoft
+8f41dc7c-542c-4bdd-8eb3-e60543f607ca,Microsoft Device Directory Service,Microsoft
+8fca0a66-c008-4564-a876-ab3ae0fd5cff,Microsoft.SMIT,Microsoft
+905fcf26-4eb7-48a0-9ff0-8dcc7194b5ba,Sway,Microsoft
+90f610bf-206d-4950-b61d-37fa6fd1b224,Aadrm Admin Powershell,Microsoft
+913c6de4-2a4a-4a61-a9ce-945d2b2ce2e0,Dynamics Lifecycle services,Microsoft
+914ed757-9257-4200-b68e-a2bed2f12c5a,RbacBackfill,Microsoft
+914fed76-dc75-4540-bf23-57624291b0ec,M365AdminSettingsService,Microsoft
+918d0db8-4a38-4938-93c1-9313bdfe0272,asmcontainerimagescanner,Microsoft
+9199bf20-a13f-4107-85dc-02114787ef48,MS Outlook Web App (newu),Microsoft
+9199bf20-a13f-4107-85dc-02114787ef48,One Outlook Web,Microsoft
+91a53dc4-b25b-482c-8e83-8d7ac7065b17,CCM_Pricing_PROD,Microsoft
+91ad134d-5284-4adc-a896-d7fd24e9fa15,Microsoft Alchemy Service,Microsoft
+92207c39-ad77-48ae-bb98-83241cc9ff9b,MSXFAQ ConsentSpam,Microsoft
+925eb0d0-da50-4604-a19f-bd8de9147958,Groupies Web Service,Microsoft
+92876b03-76a3-4da8-ad6a-0511ffdf8647,ComplianceWorkbenchApp,Microsoft
+929cb005-cba1-40c4-a962-ef441029cb6c,make.gov.powerpages.microsoft.us,Microsoft
+9315aedd-209b-43b3-b149-2abff6a95d59,PowerVirtualAgentsUSGovGCC,Microsoft
+934d626a-1ead-4a36-a77d-12ec63b87a0d,Microsoft Rights Management Services Default,Microsoft
+93625bc8-bfe2-437a-97e0-3d0060024faa,Microsoft password reset service,Microsoft
+9362bc14-3e81-4ef9-8b77-f1c40afe68e0,apps.powerapps.com,Microsoft
+939fe80f-2eef-464f-b0cf-705d254a2cf2,Power Query Online GCC-L2,Microsoft
+93bd1aa4-c66b-4587-838c-ffc3174b5f13,Power Platform Global Discovery Service,Microsoft
+944861d3-5975-4f8b-afd4-3422c0b1b6ce,Customer Service Trial PVA,Microsoft
+9449a792-6831-40e2-9097-29dbc6dd4753,Arc Public Cloud - Networking,Microsoft
+944f0bd1-117b-4b1c-af26-804ed95e767e,Media Analysis and Transformation Service,Microsoft
+945d3a88-db20-40bd-a9e3-8f2383a17c88,make.powerpages.microsoft.com,Microsoft
+94c63fef-13a3-47bc-8074-75af8c65887a,Office Delve,Microsoft
+95813a7c-0efb-4173-a866-c2079e02378a,MMD Intune Partner Sync,Microsoft
+959678cf-d004-4c22-82a6-d2ce549a58b8,Microsoft_Azure_Support,Microsoft
+95de633a-083e-42f5-b444-a4295d8e9314,Microsoft Whiteboard Services,Microsoft
+96ff4394-9197-43aa-b393-6a41652e21f8,ccibotsprod,Microsoft
+96ff4394-9197-43aa-b393-6a41652e21f8,Power Virtual Agents,Microsoft
+978877ea-b2d6-458b-80c7-05df932f3723,Microsoft Teams AuditService,Microsoft
+978b42f5-e03a-4695-b8df-454959d032c8,BAP,Microsoft
+978b42f5-e03a-4695-b8df-454959d032c8,BAP CDS Application,Microsoft
+97d27433-255e-498c-a280-0cbc9aee407e,GlobalDiscoService2,Microsoft
+981f26a1-7f43-403b-a875-f8b09b8cd720,Azure Multi-Factor Auth Client,Microsoft
+982bda36-4632-4165-a46a-9863b1bbcf7d,O365 Demeter,Microsoft
+9856e8dd-37b6-4749-a54b-8f6503ea93b7,PrcessSimpleGCCHigh,Microsoft
+98c8388a-4e86-424f-a176-d1288462816f,OfficeFeedProcessors,Microsoft
+98db8bd6-0cc0-4e67-9de5-f187f1cd1b41,Microsoft Substrate Management,Microsoft
+99335b6b-7d9d-4216-8dee-883b26e0ccf7,Power Platform Dataflows Common Data Service Client,Microsoft
+996def3d-b36c-4153-8607-a6fd3c01b89f,Project Madeira,Microsoft
+996def3d-b36c-4153-8607-a6fd3c01b89f,Dynamics 365 Business Central,Microsoft
+997dc448-eeab-4c93-8811-6b2c80196a16,CCM TAGS,Microsoft
+99ff962b-6252-4b98-8478-0c65a3ea1925,InsightsAppsPlatform,Microsoft
+9a375489-421a-4af5-9f4a-3dd5a8f7b0d8,APIHub-Connectors-GCC_notUsed,Microsoft
+9b06ebd4-9068-486b-bdd2-dac26b8a5a7a,Microsoft.DynamicsMarketing,Microsoft
+9ba1a5c7-f17a-4de9-a1f1-6178c8d51223,Microsoft Intune Company Portal,Microsoft
+9bb724a5-4639-438c-969b-e184b2b1e264,KaizalaActionsPlatform,Microsoft
+9bc3ab49-b65d-410a-85ad-de819febfddc,Microsoft SharePoint Online Management Shell,Microsoft
+9c0b0a7a-dbd4-4341-90ff-1198fd103c30,DC01,Microsoft
+9c60a40b-b5c5-4d01-8588-776209c80db3,Search Federation Connector - Dataverse,Microsoft
+9cb77803-d937-493e-9a3b-4b49de3f5a74,Microsoft Intune Service Discovery,Microsoft
+9cd0f7df-8b1a-4e54-8c0c-0ef3a51116f6,DirectoryLookupService,Microsoft
+9cdead84-a844-4324-93f2-b2e6bb768d07,Azure Virtual Desktop,Microsoft
+9cee029c-6210-4654-90bb-17e6e9d36617,Power Platform CLI - pac,Microsoft
+9d06afd9-66c9-49a6-b385-ea7509332b0b,O365SBRM Service,Microsoft
+9d827643-d003-4cca-9dc8-71213a8f1644,Workplace Analytics,Microsoft
+9d8f559b-5984-46a4-902a-ad4271e83efa,Power Virtual Agents Service,Microsoft
+9e133cac-5238-4d1e-aaa0-d8ff4ca23f4e,Conferencing Virtual Assistant,Microsoft
+9e3b502c-b4a1-441d-98fd-28e482bf7e88,Dynamics 365 Customer Insights - Consent,Microsoft
+9e4a5442-a5c9-4f6f-b03f-5b9fcaaf24b1,OfficeServicesManager,Microsoft
+9e5d84af-8971-422f-968a-354cd675ae5b,ComplianceAuthServer,Microsoft
+9e6d7425-da52-4c9d-a3bf-48ce4670f9ef,Prod M365FLWPService FirstRelease,Microsoft
+9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7,Bing,Microsoft
+9f4bb91b-347a-47ab-aba4-06db0dcb89e3,Unify Portal Prod,Microsoft
+9f6c88b7-0272-4581-a75a-ec0340824ed1,PTSS,Microsoft
+9fcb3732-5f52-4135-8c08-9d4bbaf203ea,Microsoft Azure BatchAI,Microsoft
+a0551534-cfc9-4e1f-9a7a-65093b32bb38,AzureLockbox,Microsoft
+a0be0c72-870e-46f0-9c49-c98333a996f7,AzureDnsFrontendApp,Microsoft
+a0fe4328-8965-437b-a350-cf71409d002f,Cloud for Nonprofit Installer,Microsoft
+a12e8ccb-0fcd-46f8-b6a1-b9df7a9d7231,Azure Arc Data Processing Services,Microsoft
+a164aee5-7d0a-46bb-9404-37421d58bdf7,Microsoft Teams AuthSvc,Microsoft
+a1b76039-a76c-499f-a2dd-846b4cc32627,Azure Key Vault Managed HSM Key Governance Service,Microsoft
+a25dbca8-4e60-48e5-80a2-0664fdb5c9b6,Microsoft.MileIQ,Microsoft
+a2e5d98b-c0e5-4191-b4ae-f6aa7e469ede,commerce-copilot-firstpartyappid,Microsoft
+a303894e-f1d8-4a37-bf10-67aa654a0596,Compute Usage Provider,Microsoft
+a306baf0-5ad8-4f6f-babf-6a286b0142ba,Azure Data Factory,Microsoft
+a3747411-ce7c-4888-9ddc-3a230786ca19,Azure Container Registry - Dataplane,Microsoft
+a3dfc3c6-2c7d-4f42-aeec-b2877f9bce97,Microsoft Azure AD Identity Protection,Microsoft
+a47591ab-e23e-4ffa-9e1b-809b9067e726,Microsoft Teams User Profile Search Service,Microsoft
+a4b559be-784e-49ec-9b63-7208442255e1,PowerApps Fairfax,Microsoft
+a4c1cdb3-88ab-4d13-bc99-1c46106f0727,Marketplace Reviews,Microsoft
+a4c95b9e-3994-40cc-8953-5dc66d48348d,Microsoft Container Registry,Microsoft
+a522f059-bb65-47c0-8934-7db6e5286414,CCIBot,Microsoft
+a57aca87-cbc0-4f3c-8b9e-dc095fdc8978,IAM Supportability,Microsoft
+a59cef1e-2e32-4703-8dab-810d9807efeb,ccibots,Microsoft
+a665538c-5b51-48a1-b3a5-cf20f42c3785,Prod-DPS-vNext-1P,Microsoft
+a672d62c-fc7b-4e81-a576-e60dc46e951d,Microsoft Power Query for Excel,Microsoft
+a672d62c-fc7b-4e81-a576-e60dc46e951d,Microsoft Power Query for Excel (desktop client),Microsoft
+a68e1e61-ad4f-45b6-897d-0a1ea8786345,Office365 Shell WCSS-Server Default,Microsoft
+a69788c6-1d43-44ed-9ca3-b83e194da255,Azure Data Studio,Microsoft
+a6aa9161-5291-40bb-8c5c-923b567bee3b,Storage Resource Provider,Microsoft
+a6d2002e-7db6-4da0-94e8-73765fdbc7fb,ProcessSimpleDoD,Microsoft
+a70c8393-7c0c-4c1e-916a-811bd476ee11,Microsoft Defender for Cloud CIEM,Microsoft
+a7d42dcf-5f3b-41b0-8ad5-e7c5808c617a,PowerPlatformEnvironmentManagement,Microsoft
+a81833f1-fd18-490b-8598-60cd7b6b0382,PowerApps - apps.gov.powerapps.us,Microsoft
+a855a166-fd92-4c76-b60d-a791e0762432,Microsoft Teams VSTS,Microsoft
+a882f5bd-2492-44fe-bb55-a811aab59451,Intune Compliance Client Prod,Microsoft
+a8adde6c-aeb4-4fd6-9d8f-c2dfdecac60a,Dynamics 365 collaboration with Microsoft Teams,Microsoft
+a8b6bf88-1d1a-4626-b040-9a729ea93c65,Compute Artifacts Publishing Service,Microsoft
+a8f7a65c-f5ba-4859-b2d6-df772c264e9d,make.powerapps.com,Microsoft
+a94f9c62-97fe-4d19-b06d-472bed8d2bcf,Azure SQL Database and Data Warehouse,Microsoft
+a99783bc-5466-4cef-82eb-ebf285d77131,Common Job Provider,Microsoft
+aa580612-c342-4ace-9055-8edee43ccb89,Microsoft Teams Shifts,Microsoft
+aa813f0e-407a-459d-93af-805f2bf10f33,Substrate Conversation Intelligence Service,Microsoft
+aa9ecb1e-fd53-4aaa-a8fe-7a54de2c1334,Office 365 Configure,Microsoft
+aacceff9-8ec3-413c-83eb-cb131aaf55c6,Arc Public Cloud - Servers,Microsoft
+aad3e70f-aa64-4fde-82aa-c9d97a4501dc,RPA - Machine Management Relay Service,Microsoft
+aaf3f152-fe17-487b-b671-44d3f7bad293,Mimir,Microsoft
+ab158d9a-0b5c-4cc3-bb2b-f6646581e4e4,CAP Neptune Prod CM Prod,Microsoft
+ab27a73e-a3ba-4e43-8360-8bcc717114d8,Microsoft.OfficeModernCalendar,Microsoft
+ab3be6b7-f5df-413d-ac2d-abf1e3fd9c0b,Microsoft Teams Graph Service,Microsoft
+ab9468a9-c559-47ec-86f6-2f1b48612c09,DataSyncService,Microsoft
+ab9b8c07-8f02-4f72-87fa-80105867a763,OneDrive SyncEngine,Microsoft
+abc63b55-0325-4305-9e1e-3463b182a6dc,TenantSearchProcessors,Microsoft
+abfa0a7c-a6b6-4736-8310-5855508787cd,Microsoft Azure App Service,Microsoft
+ac6dbf5e-1087-4434-beb2-0ebf7bd1b883,Microsoft Defender for Cloud Apps - Customer Experience,Microsoft
+ac9dc5fe-b644-4832-9d03-d9f1ab70c5f7,Microsoft.ConnectedVMwarevSphere Resource Provider,Microsoft
+ad40333e-9910-4b61-b281-e3aeeb8c3ef3,AI Builder Authorization Service,Microsoft
+ad9edce3-988f-4297-bc89-a683756bea59,MSXFAQ Redirect,Microsoft
+adb31c9c-be95-4772-83a3-f5dab278e3a6,Office Python Service MSA and AAD,Microsoft
+adc59501-b8c1-453a-a88b-9f4b244c1631,PowerApps Web Player Service - play.apps.appsplatform.us,Microsoft
+ae7deb89-ca76-4073-bf3e-b72165ac58e9,Power Automate Desktop DoD,Microsoft
+aeb01831-b358-4750-92ce-722e4f3ea7e8,BizQA for CDS,Microsoft
+aeb86249-8ea3-49e2-900b-54cc8e308f85,M365 License Manager,Microsoft
+aebc6443-996d-45c2-90f0-388ff96faa56,Visual Studio Code,Microsoft
+af124e86-4e96-495a-b70a-90f90ab96707,OneDrive iOS App,Microsoft
+af47b99c-8954-4b45-ab68-8121157418ef,MicrosoftAzureActiveDirectoryIntegratedApp,Microsoft
+b1379a75-ce5e-4fa3-80c6-89bb39bf646c,Microsoft Teams Chat Aggregator,Microsoft
+b145fb8f-d278-464f-8de1-894b596ecbde,PowerApps - apps.high.powerapps.us,Microsoft
+b15cc146-2b25-46c7-90c1-daa6c3e8386b,CRM Groups Integration,Microsoft
+b15f3d14-f6d1-4c0d-93da-d4136c97f006,Azure Storage Insights Resource Provider,Microsoft
+b20d0d3a-dc90-485b-ad11-6031e769e221,CrmSalesInsights,Microsoft
+b20d0d3a-dc90-485b-ad11-6031e769e221,SalesInsightsWebApp,Microsoft
+b26aadf8-566f-4478-926f-589f601d9c74,OneDrive,Microsoft
+b2b4502c-fedd-4748-8828-09e1eae11d6a,Dynamics 365 Universal Resource Scheduling,Microsoft
+b2cc270f-563e-4d8a-af47-f00963a71dcd,OneProfile Service,Microsoft
+b40c5461-8421-49de-97b8-b82f4467c611,MVP Summit,Microsoft
+b46c3ac5-9da6-418f-a849-0a07a10b3c6c,Cloud Infrastructure Entitlement Management,Microsoft
+b4bddae8-ab25-483e-8670-df09b9f1d0ea,Signup,Microsoft
+b4ca0290-4e73-4e31-ade0-c82ecfaabf6a,Azure DNS Managed Resolver,Microsoft
+b4ec8d8b-0275-4833-8568-690db4af4b45,ecvl-assets-aad,Microsoft
+b503eb83-1222-4dcc-b116-b98ed5216e05,Azure Notification Service,Microsoft
+b51a99a9-ccaa-4687-aa2c-44d1558295f4,Microsoft Exact Data Match Upload Agent,Microsoft
+b52893c8-bc2e-47fc-918b-77022b299bbc,Power BI Data Refresh,Microsoft
+b55b276d-2b09-4ad2-8de5-f09cf24ffba9,Microsoft Teams Templates Service,Microsoft
+b5a60e17-278b-4c92-a4e2-b9262e66bb28,Azure MFA StrongAuthenticationService,Microsoft
+b5faaec4-04c9-45e6-990a-093ed6d02c94,Dynamic 365 Sales Insights Connector for Power Automate,Microsoft
+b5ff67d6-3155-4fca-965a-59a3655c4476,diagrams.net,Microsoft
+b692184e-b47f-4706-b352-84b288d2d9ee,Microsoft.MileIQ.RESTService,Microsoft
+b6a1fec6-8029-456b-81ed-de7754615362,TI-1P-APP,Microsoft
+b6b84568-6c01-4981-a80f-09da9a20bbed,Microsoft Invoicing,Microsoft
+b6fb6bd6-f0fb-4a60-beb1-4e50afd0eaa9,PowerAppsDataPlaneBackend,Microsoft
+b73f62d0-210b-4396-a4c5-ea50c4fab79b,Skype Business Voice Fraud Detection and Prevention,Microsoft
+b7912db9-aa33-4820-9d4f-709830fdd78f,ConnectionsService,Microsoft
+b8066b99-6e67-41be-abfa-75db1a2c8809,Microsoft Intune IW Service,Microsoft
+b80a77b1-a78c-4655-9283-e40bbc285af0,CrmSalesInsightsTIP,Microsoft
+b861dbcc-a7ef-4219-a005-0e4de4ea7dcf,CrmExporter,Microsoft
+b861dbcc-a7ef-4219-a005-0e4de4ea7dcf,Data Export Service for Microsoft Dynamics 365,Microsoft
+b8cf62f3-7cc7-4e32-ab3a-41370ef0cfcf,Azure Machine Learning Services Asset Notification,Microsoft
+b97b6bd4-a49f-4a0c-af18-af507d1da76c,Office Shredding Service,Microsoft
+b9a92e36-2cf8-4f4e-bcb3-9d99e00e14ab,Compute Recommendation Service,Microsoft
+b9f7f9ce-78c7-4651-8663-c2ba51a2556a,SIAutoCapture,Microsoft
+ba11fd0d-1038-4d56-8cd4-c1da7f167017,carius.de,Microsoft
+ba23cd2a-306c-48f2-9d62-d3ecd372dfe4,OfficeGraph,Microsoft
+ba9ff945-a723-4ab5-a977-bd8c9044fe61,My Staff,Microsoft
+bb0fc165-b959-4e50-a8fc-309c1193e396,CRM Power BI Integration GCC,Microsoft
+bb2a2e3a-c5e7-4f0a-88e0-8e01fd3fc1f4,CPIM Service,Microsoft
+bb55177b-a7d9-4939-a257-8ab53a3b2bc6,Azure Arc Data Services,Microsoft
+bb8f18b0-9c38-48c9-a847-e1ef3af0602d,Microsoft.Azure.ActiveDirectoryIUX,Microsoft
+bc59ab01-8403-45c6-8796-ac3ef710b3e3,Outlook Online Add-in App,Microsoft
+bceea168-88ac-4736-95dc-4ce488ffe324,Microsoft Defender for Cloud,Microsoft
+bd414a4d-005a-4a51-a63e-12097e3dcd19,LobeClientDev,Microsoft
+bd6d9218-235b-4abd-b3be-9ff157dcf36c,MDC Data Sensitivity,Microsoft
+bdb3d4c5-dc11-426e-8f04-2621dbcce738,Flow-RP,Microsoft
+be5f0473-6b57-40f8-b0a9-b3054b41b99e,IBuilder_StructuredML_Prod_CDS,Microsoft
+be5f0473-6b57-40f8-b0a9-b3054b41b99e,AI Builder Prod Non God Mode,Microsoft
+bee5ee7b-22c7-4e94-9b8b-031319e230a3,Viva Goals Integrations,Microsoft
+bf26f092-3426-4a99-abfb-97dad74e661a,Azure AD Identity Governance,Microsoft
+bf283ae6-5efd-44a8-b56a-2a7939982d60,Azure Machine Learning Authorization App 2,Microsoft
+bf4fa6bf-d24c-4d1c-8cfd-12063dd646b2,AADPremiumService,Microsoft
+bf7b96b3-68e4-4fd9-b697-637f0f1e778c,Universal Store Entitlements Service,Microsoft
+bf9fc203-c1ff-4fd4-878b-323642e462ec,Jarvis Transaction Service,Microsoft
+c066d759-24ae-40e7-a56f-027002b5d3e4,M365DataAtRestEncryption,Microsoft
+c09dc6d6-3bff-482b-8e40-68b3ad65f3fa,ProductsLifecycleApp,Microsoft
+c0d2a505-13b8-4ae0-aa9e-cddd5eab0b12,Microsoft Power BI,Microsoft
+c10f411a-874c-485c-9d66-6e0b34202c41,SEAL SNI,Microsoft
+c161e42e-d4df-4a3d-9b42-e7a3c31f59d4,Microsoft Intune API,Microsoft
+c26550d6-bc82-4484-82ca-ac1c75308ca3,Office 365 YammerOnOls,Microsoft
+c2ada927-a9e2-4564-aae2-70775a2fa0af,OCaaS Client Interaction Service,Microsoft
+c39c9bac-9d1f-4dfb-aa29-27f6365e5cb7,Azure Advisor,Microsoft
+c44b4083-3bb0-49c1-b47d-974e53cbdf3c,Azure Portal,Microsoft
+c495cfdc-814f-46a1-89f0-657921c9fbe0,Azure AD Identity Governance - Dynamics 365 Management,Microsoft
+c4c008ec-e9c5-455c-b7e3-92c49982bc84,PowerAutomate-ProcessMining-PPE,Microsoft
+c5393580-f805-4401-95e8-94b7a6ef2fc2,Office 365 Management APIs,Microsoft
+c58637bb-e2e1-4312-8a00-04b5ffcd3403,SharePoint Online Client Extensibility,Microsoft
+c5b17a4f-cc6f-4649-9480-684280a2af3a,aciapi,Microsoft
+c606301c-f764-4e6b-aa45-7caaaea93c9a,Office Store,Microsoft
+c616a574-21d3-46fa-92b7-90d84a4c7cd8,SharePoint Online Client Extensibility Web Application Principal Helper,Microsoft
+c61d67cf-295a-462c-972f-33af37008751,Call Quality Dashboard,Microsoft
+c6868ab4-5ded-440d-aedf-fa8b0d5b8429,EventPoint sign in,Microsoft
+c6871074-3ded-4935-a5dc-b8f8d91d7d06,ISV Portal,Microsoft
+c6a9976b-9beb-43b8-9aea-52a55ba8e39b,Flow-CDSNativeConnectorGermany,Microsoft
+c6d1e3ad-0185-40e0-a11b-0542b185d12c,PowerAppsGov,Microsoft
+c6e44401-4d0a-4542-ab22-ecd4c90d28d7,App Protection,Microsoft
+c728155f-7b2a-4502-a08b-b8af9b269319,AAD Request Verification Service - PROD,Microsoft
+c7d28c4f-0d2c-49d6-a88d-a275cc5473c7,AIRS,Microsoft
+c830ddb0-63e6-4f22-bd71-2ad47198a23e,Microsoft To-Do,Microsoft
+c84a0f23-a0f8-4e8e-918b-57db620d110a,Power Platform Admin Center Client Test,Microsoft
+c8f5141d-83e0-4e9a-84d0-bb6677e26f64,Azure Guest Container Update Manager,Microsoft
+c92229fa-e4e7-47fc-81a8-01386459c021,CDSUserManagement,Microsoft
+c92229fa-e4e7-47fc-81a8-01386459c021,Common Data Service User Management,Microsoft
+c9224372-5534-42cb-a48b-8db4f4a3892e,MS Teams Griffin Assistant,Microsoft
+c9299480-c13a-49db-a7ae-cdfe54fe0313,PowerApps-Advisor,Microsoft
+c94526fa-9f4b-4d30-99f5-849636e4552f,Office 365 Client Insights Substrate Services Prod,Microsoft
+c9475445-9789-4fef-9ec5-cde4a9bcd446,Messaging Bot API Application for GCC,Microsoft
+c98e5057-edde-4666-b301-186a01b4dc58,MicrosoftEndpointDLP,Microsoft
+c9a559d2-7aab-4f13-a6ed-e7e9c52aec87,Microsoft Forms,Microsoft
+c9b24c1a-09c1-4726-a288-709c86a12a9b,Omnichannel,Microsoft
+c9d36ed4-91b3-4c87-b8d7-68d92826c96c,Modern Workplace Customer APIs,Microsoft
+ca0a114d-6fbc-46b3-90fa-2ec954794ddb,Microsoft Device Management Checkin,Microsoft
+ca7f3f0b-7d91-482c-8e09-c5d840d0eac5,Log Analytics API,Microsoft
+cb1056e2-e479-49de-ae31-7812af012ed8,Microsoft Azure Active Directory Connect,Microsoft
+cb1bda4c-1213-4e8b-911a-0a8c83c5d3b7,o365.servicecommunications.microsoft.com,Microsoft
+cb250467-fc8f-4c42-8349-9ff9e9a17b02,CAS API Security RP Dev,Microsoft
+cb47b44e-c0a3-47a5-85ce-3dc039c85e80,PADWAMigratorGCCHigh,Microsoft
+cb4dc29f-0bf4-402a-8b30-7511498ed654,Power BI Premium,Microsoft
+cbfda01c-c883-45aa-aedc-e7a484615620,Microsoft Windows AutoPilot Service API,Microsoft
+cbff9545-769a-4b41-b76e-fbb069e8727e,Microsoft Defender for Cloud Pricing Resource Provider,Microsoft
+cc15fd57-2c6c-4117-a88c-83b1d56b4bbe,Microsoft Teams Services,Microsoft
+cc46c2aa-d508-409b-aeb7-df7cd1e07aaa,MAPG,Microsoft
+ccf4d8df-75ce-4107-8ea5-7afd618d4d8a,Microsoft Intune AAD BitLocker Recovery Key Integration,Microsoft
+cd34d57a-a3ef-48b1-b84b-9686f0f7c099,Aria,Microsoft
+cdccd920-384b-4a25-897d-75161a4b74c1,Skype Teams Firehose,Microsoft
+ce384d7c-6755-471d-91aa-1b48cc519c49,AppDeploymentOrchestration-Preprod,Microsoft
+ce6ff14a-7fdc-4685-bbe0-f6afdfcfa8e0,Microsoft Azure Linux Virtual Machine Sign-In,Microsoft
+ce79fdc4-cd1d-4ea5-8139-e74d7dbe0bb7,AAD Lifecycle Management,Microsoft
+ce933385-9390-45d1-9512-c8d228074e07,Skype for Business OrgAA,Microsoft
+ce9f9f18-dd0c-473e-b9b2-47812435e20d,Microsoft Dynamics CRM for tablets and phones,Microsoft
+cf53fce8-def6-4aeb-8d30-b158e7b1cf83,Microsoft Stream Portal,Microsoft
+cf6c77f8-914f-4078-baef-e39a5181158b,Microsoft Teams Settings Store,Microsoft
+cf710c6e-dfcc-4fa8-a093-d47294e44c66,Azure Analysis Services Client,Microsoft
+cf8f0657-7610-4b05-8723-a4322ae045c6,Microsoft Dynamics Document Routing Agent,Microsoft
+cfa8b339-82a2-471a-a3c9-0fc0be7a4093,Azure Key Vault,Microsoft
+cfbd4387-1a16-4945-83c0-ec10e46cd4da,Azure Security for IoT,Microsoft
+d00b5d58-cae5-42ad-ae0a-5a2e6f7ee6c9,Arc Token Service,Microsoft
+d024ca46-2708-4d20-903e-b18b7e1d95dc,Dynamics365Assistant,Microsoft
+d0597157-f0ae-4e23-b06c-9e65de434c4f,Microsoft Teams Task Service,Microsoft
+d0af0b2c-272b-4820-80ce-af3cc751950f,sophia.api.microsoft.com,Microsoft
+d0ef82bb-244a-4458-9eb4-24a9f093f2c4,Defender for Cloud - Private Link Resource Provider,Microsoft
+d29a4c00-4966-492a-84dd-47e779578fb7,Discovery Service,Microsoft
+d2a0a418-0aac-4541-82b2-b3142c89da77,Microsoft Operations Management Suite,Microsoft
+d2a590e7-6906-4a45-8f41-cecfdca9bca1,Hybrid RP Application,Microsoft
+d2fa1650-4805-4a83-bcb9-cf41fe63539c,ACR-Tasks-Prod,Microsoft
+d326c1ce-6cc6-4de2-bebc-4591e5e13ef0,SharePoint,Microsoft
+d32c68ad-72d2-4acb-a0c7-46bb2cf93873,Microsoft Activity Feed Service,Microsoft
+d3590ed6-52b3-4102-aeff-aad2292ab01c,Microsoft Access client,Microsoft
+d3590ed6-52b3-4102-aeff-aad2292ab01c,Microsoft Office,Microsoft
+d3ee6f25-becc-4659-9bc6-bbe6af7d18e6,OneLTI,Microsoft
+d4a55fa7-2c20-434d-8942-689200452979,DynamicsCRMCortanaCacheService@microsoft.com,Microsoft
+d4ebce55-015a-49b5-a083-c84d1797ae8c,Microsoft Intune Enrollment,Microsoft
+d52792f4-ba38-424d-8140-ada5b883f293,AAD Terms Of Use,Microsoft
+d5b7f828-8c18-452f-9791-554b35e4879f,Windows 365 Intune partner sync,Microsoft
+d6037e40-282c-493d-8f63-f255e36c6ef4,Microsoft Dynamics 365 Supply Chain Visibility,Microsoft
+d6101214-691f-47d0-8ea3-dca752e62d71,Dataverse Resource Provider,Microsoft
+d62121f3-e023-4972-b6b0-794190c0fd98,Office 365 Mover,Microsoft
+d66e9e8e-53a4-420c-866d-5bb39aaea675,networkcopilotRP,Microsoft
+d6b5a0bd-bf3f-4a8c-b370-619fb3d0e1cc,Dynamics Retail Modern POS,Microsoft
+d6bff893-8a0c-41af-aa91-8a041a5c0753,P2P Server,Microsoft
+d6fdaa33-e821-4211-83d0-cf74736489e1,Microsoft Service Trust,Microsoft
+d7097cd1-c779-44d0-8c71-ab1f8386a97e,Microsoft Office Licensing Service Agents,Microsoft
+d73f4b35-55c9-48c7-8b10-651f6f2acb2e,MCAPI Authorization Prod,Microsoft
+d7813711-9094-4ad3-a062-cac3ec74ebe8,Microsoft.Azure.Services.AppAuthentication,Microsoft
+d7e0a6a1-dde5-4f6e-81ce-781fa7483834,mil.create.powerapps.us,Microsoft
+d82073ec-4d7c-4851-9c5d-5d97a911d71d,Kaizala Sync Service,Microsoft
+d8877f27-09c0-43aa-8113-40151dae8b14,Microsoft Intune AndroidSync,Microsoft
+d88a361a-d488-4271-a13f-a83df7dd99c2,IDML Graph Resolver Service and CAD,Microsoft
+d8c767ef-3e9a-48c4-aef9-562696539b39,Request Approvals Read Platform,Microsoft
+d8cbf452-c2df-4756-95a5-8aa23fedc3ce,ContactUnification,Microsoft
+d8fa9ca8-15de-4a33-b719-9c944b9b2e3e,Sophia Platform Service API,Microsoft
+d93420f9-abc8-46b7-b7fc-30ec1f007ee2,Azure API Hub - GCC-Med,Microsoft
+d9ce8cfa-8bd8-4ff1-b39b-5e5dd5742935,OmnichannelCRMClient,Microsoft
+d9ce8cfa-8bd8-4ff1-b39b-5e5dd5742935,Omnichannel for CS CRM ClientApp Primary,Microsoft
+da9b70f6-5323-4ce6-ae5c-88dcc5082966,Universal Print,Microsoft
+dac3dc4c-8be0-4972-8c97-e0a8500927f3,PowerAppsDataPlaneBackend,Microsoft
+dad3c6de-ed58-42ef-989f-9c0303aaeedc,PowerAutomate-ProcessMining,Microsoft
+db040338-7cb4-44df-a22b-785bde7ce0e2,RPA - Machine Management Relay Service - Application,Microsoft
+db55028d-e5ba-420f-816a-d18c861aefdf,Microsoft Office Licensing Service vNext,Microsoft
+db7de2b5-2149-435e-8043-e080dd50afae,Skype for Business Voicemail,Microsoft
+db966cd2-032b-4f21-b7c2-eadd3d68c2f2,CDSUserManagementNonProd,Microsoft
+dbc36ae1-c097-4df9-8d94-343c3d091a76,Service Encryption,Microsoft
+dbcbd02a-d7c4-42fb-8c27-b07e5118b848,Azure Graph,Microsoft
+dc3294af-4679-418f-a30c-76948e23fe1c,Microsoft Kaizala,Microsoft
+dc426ec9-396a-46fd-8445-564554907e34,PowerApps Web Player Service - high.apps.powerapps.us,Microsoft
+dc457883-bafe-4f8b-a333-29685e7eaa9e,PPE-DataResidencyService,Microsoft
+dcad865d-9257-4521-ad4d-bae3e137b345,Microsoft SharePoint Online - SharePoint Home,Microsoft
+dd63a01a-ae84-4d07-bf60-69dadeaa8c89,Project Finder Mobile,Microsoft
+dd762716-544d-4aeb-a526-687b73838a22,Microsoft Device Registration Client,Microsoft
+ddbf3205-c6bd-46ae-8127-60eb93363864,Microsoft Azure Batch,Microsoft
+de096ee1-dae7-4ee1-8dd5-d88ccc473815,MileIQ Admin Center,Microsoft
+de17788e-c765-4d31-aba4-fb837cfff174,Skype for Business Management Reporting and Analytics,Microsoft
+de247707-4e4a-47d6-89fd-3c632f870b34,CloudLicensingSystem,Microsoft
+de490f5e-b798-48d8-ae3b-c220d7494cef,BAGSolutionsInstaller,Microsoft
+de8bc8b5-d9f9-48b1-a8ad-b748da725064,Graph explorer (official site),Microsoft
+de8e0d25-0c9e-4230-87d6-cf379be2f1bd,Flow-CDSNativeConnectorTIP2US,Microsoft
+de926fbf-e23b-41f9-ae15-c943a9cfa630,Microsoft Azure Authorization Private Link Provider,Microsoft
+de9fe347-3128-4a28-9b19-cd4ecca1f526,TPSProxyServiceTST,Microsoft
+dee7ba80-6a55-4f3b-a86c-746a9231ae49,Microsoft AppPlat EMA,Microsoft
+df09ff61-2178-45d8-888c-4210c1c7b0b2,O365 UAP Processor,Microsoft
+e03e16b9-5fbd-4fb5-a756-d446796d1257,Cisco Webex,Microsoft
+e08ab642-962a-4175-913c-165f557d799a,teams contacts griffin processor,Microsoft
+e0ccf59d-5a20-4a87-a122-f42842cdb86a,Microsoft Defender for Cloud Scanner Resource Provider,Microsoft
+e1255f48-529f-4573-8ad2-8b13d784cd1c,PowerAutomate-ProcessMining-TEST,Microsoft
+e1335bb1-2aec-4f92-8140-0e6e61ae77e5,CIWebService,Microsoft
+e1829006-9cf1-4d05-8b48-2e665cb48e6a,Microsoft Teams Web Client,Microsoft
+e18cedde-9458-482f-9dd1-558c597ac42e,Hybrid Connectivity RP,Microsoft
+e1979c22-8b73-4aed-a4da-572cc4d0b832,App Studio for Microsoft Teams,Microsoft
+e1ead297-b008-4e59-9ce2-d696b3b0f9c4,CodeTwo Migration,Microsoft
+e29b5c86-b9ab-4a86-9a20-d10842007599,SharePoint Framework Azure AD Helper,Microsoft
+e3335adb-5ca0-40dc-b8d3-bedc094e523b,SubscriptionRP,Microsoft
+e3583ad2-c781-4224-9b91-ad15a8179ba0,Microsoft.ExtensibleRealUserMonitoring,Microsoft
+e3a3c6d7-bd80-4be5-88da-c2226a5d9328,Microsoft Defender For Cloud Billing,Microsoft
+e3cf99e1-a6e5-4284-9f92-261c7713bc54,Customer Experience Platform CDPA Provisioning PROD,Microsoft
+e406a681-f3d4-42a8-90b6-c2b029497af1,Azure Storage,Microsoft
+e462442e-6682-465b-a31f-652a88bfbe51,Microsoft events,Microsoft
+e548fb5c-c385-41a6-a31d-6dbc2f0ca8a3,JobsServiceProd,Microsoft
+e548fb5c-c385-41a6-a31d-6dbc2f0ca8a3,Microsoft Dynamics Jobs Service,Microsoft
+e582717c-581c-4a51-a8d7-5cd28f59497a,Prod M365FLWPClient FirstRelease,Microsoft
+e64aa8bc-8eb4-40e2-898b-cf261a25954f,CRM Power BI Integration,Microsoft
+e807d0e2-91da-40d6-8cee-e33c91a0b051,PROD Microsoft Defender For Cloud Athena,Microsoft
+e8ab36af-d4be-4833-a38b-4d6cf1cfd525,MicrosoftSocialEngagement@microsoft.com,Microsoft
+e8ab36af-d4be-4833-a38b-4d6cf1cfd525,Microsoft Social Engagement,Microsoft
+e8bdeda8-b4a3-4eed-b307-5e2456238a77,Office365 Shell SS-Server,Microsoft
+e8c38929-689f-4155-96f7-ab45b0f67cec,TrustedPublishersProxyService-GccModerate,Microsoft
+e933bd07-d2ee-4f1d-933c-3752b819567b,Azure Monitor Control Service,Microsoft
+e935b4a5-8968-416d-8414-caed51c782a9,MicrosoftGuestConfiguration,Microsoft
+e95d8bee-4725-4f59-910d-94d415da51b9,Skype for Business Name Dictionary Service,Microsoft
+e97edbaf-39b2-4546-ba61-0a24e1bef890,EHRTeleHealth,Microsoft
+e97edbaf-39b2-4546-ba61-0a24e1bef890,Teams EHR Connector,Microsoft
+e9b154d0-7658-433b-bb25-6b8e0a8a7c59,Outlook Lite,Microsoft
+e9c51622-460d-4d3d-952d-966a5b1da34c,Microsoft Edge,Microsoft
+ea0616ba-638b-4df5-95b9-636659ae5121,Power BI Gateway,Microsoft
+ea62c1c6-550b-4238-8ea7-c55a85d86be8,Teams Work Report,Microsoft
+ea890292-c8c8-4433-b5ea-b09d0668e1a6,Azure Credential Configuration Endpoint Service,Microsoft
+eacba838-453c-4d3e-8c6a-eb815d3469a3,Microsoft Flow CDS Integration Service TIP1,Microsoft
+eace8149-b661-472f-b40d-939f89085bd4,Substrate Instant Revocation Pipeline,Microsoft
+eaf8a961-f56e-47eb-9ffd-936e22a554ef,DevilFish,Microsoft
+ebe0c285-db95-403f-a1a3-a793bd6d7767,Office MRO Device Manager Service,Microsoft
+ebf6b2b7-c635-4217-b6b7-21de4ac65764,WPSTrialSignUpService_Prod,Microsoft
+ec245c98-4a90-40c2-955a-88b727d97151,AzureADIdentityGovernanceUserManagement,Microsoft
+ec245c98-4a90-40c2-955a-88b727d97151,Azure AD Identity Governance - User Management,Microsoft
+edfdd43b-26b5-498b-b89f-515ddf78dcc2,CCaaSCRMClient,Microsoft
+ee45196f-bd15-4010-9a66-c8497a97a873,Microsoft Defender For Cloud Discovery,Microsoft
+ee90a17f-1cb7-4909-be27-dfc2dcc4dc15,Power Automate Desktop,Microsoft
+eec53b1f-b9a4-4479-acf5-6b247c6a49f2,Microsoft.HybridCompute Agent Service,Microsoft
+ef32e2a3-262a-44e5-a270-4dfb7b6d0bb2,AiBuilder PAIO-CDS Prod,Microsoft
+ef47e344-4bff-4e28-87da-6551a21ffbe0,BingTest,Microsoft
+ef4c7f67-65bd-4506-8179-5ddcc5509aeb,Skype For Business Entitlement,Microsoft
+ef5d5c69-a5df-46bb-acaf-426f161a21a2,Managed Service Identity,Microsoft
+ef947699-9b52-4b31-9a37-ef325c6ffc47,Power Query Online GCC-L4,Microsoft
+f034940d-60b7-4587-afc9-ac1786ad7419,RelevanceSearch,Microsoft
+f05ff7c9-f75a-4acd-a3b5-f4b6a870245d,SharePoint Android,Microsoft
+f09d1391-098c-47d7-ac7e-6ed2afc5016b,MicrosoftAzureADFulfillment,Microsoft
+f0ae4899-d877-4d3c-ae25-679e38eea492,AAD App Management,Microsoft
+f0b72488-7082-488a-a7e8-eada97bd842d,Power BI Report Builder,Microsoft
+f10573e9-a3c7-41b4-b203-4b1baed8fc8c,Customer Experience Platform FRE TIP Non-Prod,Microsoft
+f18b59c9-5926-4a65-8605-c23ec8c7e074,console-m365d,Microsoft
+f1a1e36a-d61f-4283-9f48-0867636e332c,Power Automate Desktop GCC High,Microsoft
+f2537abf-644e-4a0d-9f7b-c91c45c643db,Teams Admin Monitoring Alerting Platform,Microsoft
+f25a7567-8ec5-4582-8a65-bfd66b0530cc,ReportReplica,Microsoft
+f2c304cf-8e7e-4c3f-8164-16299ad9d272,Azure Management Groups,Microsoft
+f36c30df-d241-4c14-a0ee-752c71e4d3da,IDS-PROD,Microsoft
+f3a218b7-5c8f-460b-93af-56b072788c15,Microsoft Workplace Search Service,Microsoft
+f3b07414-6bf4-46e6-b63f-56941f3f4128,Microsoft Power Query,Microsoft
+f3b07414-6bf4-46e6-b63f-56941f3f4128,Power Query Online,Microsoft
+f40b99cd-675e-4ce8-ae86-47b77d2a9c4d,Microsoft Mashup Engine,Microsoft
+f416c5fc-9ac4-4f66-a8e5-cb203139cbe4,OCPS Admin Service,Microsoft
+f448d7e5-e313-4f90-a3eb-5dbb3277e4b3,Media Recording for Dynamics 365 Sales,Microsoft
+f44b1140-bc5e-48c6-8dc0-5cf5a53c0e34,Microsoft Edge,Microsoft
+f4628e70-c712-4b42-b0c9-f354dc97ea49,MSXFAQ ScheduleMeeting,Microsoft
+f5223e1a-4d50-4fda-9049-55d819fbb03e,Customer Experience Platform CDPA Provisioning TIP,Microsoft
+f53895d3-095d-408f-8e93-8f94b391404e,Portfolios,Microsoft
+f569b9c7-be15-4e87-86f7-87d30d02090b,O365 LinkedIn Connection,Microsoft
+f5aeb603-2a64-4f37-b9a8-b544f3542865,Microsoft Teams RetentionHook Service,Microsoft
+f5c26e74-f226-4ae8-85f0-b4af0080ac9e,Application Insights API,Microsoft
+f6b60513-f290-450e-a2f3-9930de61c5e7,Microsoft Azure Log Search Alerts,Microsoft
+f6e5c0c2-4746-4152-b162-91309d5556df,IC3 Modern Effective Config,Microsoft
+f7069a8d-9edc-4300-b365-ae53c9627fc4,Microsoft.MileIQ.Dashboard,Microsoft
+f738ef14-47dc-4564-b53b-45069484ccc7,Marketplace Api,Microsoft
+f7a2a81e-ab33-4560-a3dd-6ddca3c5ec6d,Membership View Service,Microsoft
+f8c27b58-3fed-4b27-ab59-7cb74b1e83ca,O2Popper,Microsoft
+f8f7a2aa-e116-4ba6-8aea-ca162cfa310d,Microsoft Graph Connectors Core,Microsoft
+f96470fb-ef7b-40ff-8dbe-b2cf2812ee38,Docs Rendering PubDev,Microsoft
+f9a5ac11-cab3-45f0-9d0f-83463ba2e34c,make.test.powerpages.microsoft.com,Microsoft
+f9d02341-e7aa-456d-926d-4a0ca599fbee,Office 365 Enterprise Insights,Microsoft
+fa3d9a0c-3fb0-42cc-9193-47c7ecd2edbd,Microsoft Partner Center,Microsoft
+fa69122a-0a5e-41f1-beed-ca317370fb56,JobsServicePreProd,Microsoft
+fabfbdc4-5751-471c-ac43-3826fa1afc31,Microsoft Partner Center,Microsoft
+fac5b0fe-9b16-4ae3-b20b-324ec3f033d3,make.mil.powerapps.us,Microsoft
+fb9de05a-fecc-4642-b3ca-66b9d4434d4d,Azure Machine Learning Authorization App 1,Microsoft
+fbb0ac1a-82dd-478b-a0e5-0b2b98ef38fe,Substrate-FileWatcher,Microsoft
+fbc61429-7762-4b4a-8f9d-c728a1a5e792,Flow Xrm System User,Microsoft
+fc03f97a-9db0-4627-a216-ec98ce54e018,Azure AD Notification,Microsoft
+fc0f3af4-6835-4174-b806-f7db311fd2f3,Microsoft Intune Windows Agent,Microsoft
+fc4979e5-0aa5-429f-b13a-5d1365be5566,Microsoft Power BI Government Community Cloud,Microsoft
+fc68d9e5-1f76-45ef-99aa-214805418498,Azure AD Identity Protection,Microsoft
+fc780465-2017-40d4-a0c5-307022471b92,WindowsDefenderATP,Microsoft
+fca5a20d-55aa-4395-9c2f-c6147f3c9ffa,MSRemoteAssist,Microsoft
+fcf50ee5-8107-45e4-9a37-838727a360f5,Omnichannel for CS Admin App Prod,Microsoft
+fd14a986-6fe4-409a-883e-cdec1009cd54,Intune Grouping and Targeting Client Prod,Microsoft
+fdd7719f-d61e-4592-b501-793734eb8a0e,SharePointMigrationTool,Microsoft
+fe6aa35b-7da8-44fd-a44e-e2d4bafbdab5,Modern Workplace Tools,Microsoft
+feb2c8aa-4f70-4881-abec-521141627b04,make.gov.powerapps.us,Microsoft
+feff8b5b-97f3-4374-a16a-1911ae9e15e9,Cloud Hybrid Search,Microsoft
+ffa7d2fe-fc04-4599-9f6d-7ca06dd0c4fd,Product Insights - CDS to Azure data lake - app,Microsoft
+23523755-3a2b-41ca-9315-f81f3f566a95,ACOM Azure Website,Microsoft
+74658136-14ec-4630-ad9b-26e160ff0fc6,ADIbizaUX,Microsoft
+69893ee3-dd10-4b1c-832d-4870354be3d8,AEM-DualAuth,Microsoft
+7b7531ad-5926-4f2d-8a1d-38495ad33e17,Azure Advanced Threat Protection,Microsoft
+e9f49c6b-5ce5-44c8-925d-015017e9f7ad,Azure Data Lake,Microsoft
+835b2a73-6e10-4aa5-a979-21dfda45231c,Azure Lab Services Portal,Microsoft
+022907d3-0f1b-48f7-badc-1ba6abab6d66,Azure SQL Database,Microsoft
+20a11fe0-faa8-4df5-baf2-f965f8f9972e,ContactsInferencingEmailProcessor,Microsoft
+497effe9-df71-4043-a8bb-14cf78c4b63b,Exchange Admin Center,Microsoft
+f5eaa862-7f08-448c-9c4e-f4047d4d4521,FindTime,Microsoft
+b669c6ea-1adf-453f-b8bc-6d526592b419,Focused Inbox,Microsoft
+c35cb2ba-f88b-4d15-aa9d-37bd443522e1,GroupsRemoteApiRestClient,Microsoft
+d9b8ec3a-1e4e-4e08-b3c2-5baf00c0fcb0,HxService,Microsoft
+16aeb910-ce68-41d1-9ac3-9e1673ac9575,IrisSelectionFrontDoor,Microsoft
+0cd196ee-71bf-4fd6-a57c-b491ffd4fb1e,Media Analysis and Transformation Service,Microsoft
+944f0bd1-117b-4b1c-af26-804ed95e767e,Media Analysis and Transformation Service,Microsoft
+80ccca67-54bd-44ab-8625-4b79c4dc7775,Microsoft 365 Security and Compliance Center,Microsoft
+ee272b19-4411-433f-8f28-5c13cb6fd407,Microsoft 365 Support Service,Microsoft
+65d91a3d-ab74-42e6-8a2f-0add61688c74,Microsoft Approval Management,Microsoft
+38049638-cc2c-4cde-abe4-4479d721ed44,Microsoft Approval Management,Microsoft
+29d9ed98-a469-4536-ade2-f981bc1d605e,Microsoft Authentication Broker,Microsoft
+0000001a-0000-0000-c000-000000000000,MicrosoftAzureActiveAuthn,Microsoft
+cf36b471-5b44-428c-9ce7-313bf84528de,Microsoft Bing Search,Microsoft
+2d7f3606-b07d-41d1-b9d2-0d0c9296a6e8,Microsoft Bing Search for Microsoft Edge,Microsoft
+1786c5ed-9644-47b2-8aa0-7201292175b6,Microsoft Bing Default Search Engine,Microsoft
+3090ab82-f1c1-4cdf-af2c-5d7a6f3e2cc7,Microsoft Defender for Cloud Apps,Microsoft
+60ca1954-583c-4d1f-86de-39d835f3e452,Microsoft Defender for Identity (formerly Radius Aad Syncer),Microsoft
+18fbca16-2224-45f6-85b0-f7bf2b39b3f3,Microsoft Docs,Microsoft
+6253bca8-faf2-4587-8f2f-b056d80998a7,Microsoft Edge Insider Addons Prod,Microsoft
+99b904fd-a1fe-455c-b86c-2f9fb1da7687,Microsoft Exchange ForwardSync,Microsoft
+51be292c-a17e-4f17-9a7e-4b661fb16dd2,Microsoft Exchange ProtectedServiceHost,Microsoft
+fb78d390-0c51-40cd-8e17-fdbfab77341b,Microsoft Exchange REST API Based Powershell,Microsoft
+47629505-c2b6-4a80-adb1-9b3a3d233b7b,Microsoft Exchange Web Services,Microsoft
+d176f6e7-38e5-40c9-8a78-3998aab820e7,Microsoft Online Syndication Partner Portal,Microsoft
+871c010f-5e61-4fb1-83ac-98610a7e9110,Microsoft Power BI,Microsoft
+28b567f6-162c-4f54-99a0-6887f387bbcc,Microsoft Storefronts,Microsoft
+fdf9885b-dd37-42bf-82e5-c3129ef5a302,Microsoft Support,Microsoft
+dfe74da8-9279-44ec-8fb2-2aed9e1c73d0,O365 SkypeSpaces Ingestion Service,Microsoft
+4345a7b9-9a63-4910-a426-35363201d503,O365 Suite UX,Microsoft
+93d53678-613d-4013-afc1-62e9e444a0a5,Office Online Add-in SSO,Microsoft
+2abdc806-e091-4495-9b10-b04d93c3f040,Office Online Client Microsoft Entra ID- Augmentation Loop,Microsoft
+b23dd4db-9142-4734-867f-3577f640ad0c,Office Online Client Microsoft Entra ID- Loki,Microsoft
+17d5e35f-655b-4fb0-8ae6-86356e9a49f5,Office Online Client Microsoft Entra ID- Maker,Microsoft
+b6e69c34-5f1f-4c34-8cdf-7fea120b8670,Office Online Client MSA- Loki,Microsoft
+243c63a3-247d-41c5-9d83-7788c43f1c43,Office Online Core SSO,Microsoft
+a9b49b65-0a12-430b-9540-c80b3332c127,Office Online Search,Microsoft
+4b233688-031c-404b-9a80-a4f3f2351f90,Office.com,Microsoft
+4765445b-32c6-49b0-83e6-1d93765276ca,OfficeHome,Microsoft
+4d5c2d63-cf83-4365-853c-925fd1a64357,OfficeShredderWacClient,Microsoft
+62256cef-54c0-4cb4-bcac-4c67989bdc40,OMSOctopiPROD,Microsoft
+a3475900-ccec-4a69-98f5-a65cd5dc5306,Partner Customer Delegated Admin Offline Processor,Microsoft
+bdd48c81-3a58-4ea9-849c-ebea7f6b6360,Password Breach Authenticator,Microsoft
+35d54a08-36c9-4847-9018-93934c62740c,PeoplePredictions,Microsoft
+ae8e128e-080f-4086-b0e3-4c19301ada69,Scheduling,Microsoft
+ffcb16e8-f789-467c-8ce9-f826a080d987,SharedWithMe,Microsoft
+61109738-7d2b-4a0b-9fe3-660b1ff83505,SpoolsProvisioning,Microsoft
+91ca2ca5-3b3e-41dd-ab65-809fa3dffffa,Sticky Notes API,Microsoft
+13937bba-652e-4c46-b222-3003f4d1ff97,Substrate Context Service,Microsoft
+26abc9a8-24f0-4b11-8234-e86ede698878,SubstrateDirectoryEventProcessor,Microsoft
+a970bac6-63fe-4ec5-8884-8536862c42d4,Substrate Search Settings Management Service,Microsoft
+97cb1f73-50df-47d1-8fb0-0271f2728514,Transcript Ingestion,Microsoft
+00000005-0000-0ff1-ce00-000000000000,Viva Engage (formerly Yammer),Microsoft
+a3b79187-70b2-4139-83f9-6016c58cd27b,WindowsDefenderATP Portal,Microsoft
+c1c74fed-04c9-4704-80dc-9f79a2e515cb,Yammer Web,Microsoft
+e1ef36fd-b883-4dbf-97f0-9ece4b576fc6,Yammer Web Embed,Microsoft
+e03a13ee-9730-4cae-8525-47559c8cf18a,Office Online Service,Microsoft
+14d82eec-204b-4c2f-b7e8-296a70dab67e,Microsoft Graph Command Line Tools,Microsoft
+b24835c0-6b13-41e7-822c-94c9effb98ee,FrontendTransport,Microsoft
+17bf704f-25db-4ea9-af47-50b552cbb0f0,Power platform Community,Microsoft
+889e301b-fe6c-4c68-8665-de7954780788,LinkedIn,Microsoft
+7d636ec3-f39c-44f5-8b73-fa28a0e0c5bc,MACE Credential Revocation,Microsoft
+2832473f-ec63-45fb-976f-5d45a7d4bb91,Partner Customer Delegated Administration,Microsoft
+b8566c1c-2b37-4f6b-97ad-9aaf1fc20560,Intune MonoDeviceService ConfidentialClient,Microsoft
+2565bd9d-da50-47d4-8b85-4c97f669dc36,Domain Controller Services,Microsoft
+744e50be-c4ff-4e90-8061-cd7f1fabac0b,LinkedIn Microsoft Graph Connector,Microsoft
+abba844e-bc0e-44b0-947a-dc74e5d09022,Domain Controller Services,Microsoft
+9362bc14-3e81-4ef9-8b77-f1c40afe68e0,PowerApps Web Player Service,Microsoft
+afa3d67b-4dab-4b67-83f4-fab5f4e4aa3a,Azure Connect AU,Microsoft
+3e28acb6-7793-4fff-9fcf-fb14fbaf42a9,SecOps for Security Copilot,Microsoft
+f18474f2-a66a-4bb0-a3c9-9b8d892092fa,MaintenanceResourceProvider,Microsoft
+5a128dfa-2ded-4deb-b088-fb73a9472488,Microsoft Teams Analytics,Microsoft
+c476eb34-4c94-43bc-97fc-94ede0534615,Azure Update Manager,Microsoft
+19acfe65-2c99-4795-bf1e-1d18329b17fb,PnP PowerShell Tenant-Only App,Microsoft
+6aa06260-bc25-4768-806d-36cea43df3f0,P2P Server,Microsoft
+6a5b880d-410c-4a31-963c-84b738b8895e,Azure AD Domain Services Sync,Microsoft
+75c3c228-2139-4dc9-ace4-61be8a47c8ef,Agent (Microsoft Copilot Studio),Microsoft
+fbb123dc-fe45-41fe-ad9f-e42ab0769328,policy enforcer,Microsoft
+78b14382-63d0-4b09-b3bc-33c2de7831d8,Exchange OAuth,Microsoft
+5f09333a-842c-47da-a157-57da27fcbca5,Office365 Shell WCSS-Server,Microsoft
+c03594ff-1168-40fb-aef7-eb9f1edf7278,Enterprise File Sync Admin Service,Microsoft
+0590cb9f-3b50-4244-8077-10bf123f5675,Staying Aware Service,Microsoft
+417652cc-7e06-4a38-b790-826029360b56,Office365_ATOSD,Microsoft
+0cd7a1c0-4d26-4abc-a8ea-a678509b5c8c,Tenant Schema Extension App,Microsoft
+cf9bdbc1-18c7-4700-b6b3-093f241e2d8a,Priority Matrix,Microsoft
+886b3ae5-8ee1-4bb4-a312-b35341a95909,Syntex Resource Provider,Microsoft
+f07f2faa-185d-4d3c-8e11-8b589f5f2273,Report Message,Microsoft
+d59d6f78-e224-4910-9411-9d476ef7f3b1,VBO App,Microsoft
+bd11ca0f-4fd6-4bb7-a259-4a36693b6e13,MCAPI AAD Bridge Service,Microsoft
+0ec2d138-5a70-4a33-b2c7-7d296c996ace,Microsoft Photos,Microsoft
+f7c7f738-cb99-4489-9da3-57b15655c430,Messaging Augmentation Application,Microsoft
+228f3e22-92b5-4c6d-91e8-9dcc1757ad36,Polly,Microsoft
+ab67c66d-4b94-41f4-91a1-5773a01d10b1,Customer Portal,Microsoft
+acc07cbb-e7af-485c-a042-9b0fe9216595,Intune Application Protection CA Client,Microsoft
+443155a6-77f3-45e3-882b-22b3a8d431fb,Domain Controller Services,Microsoft
+7638a109-ee1f-4107-b1ef-38675e07812c,Teams Secure Score,Microsoft
+c4bd54e4-c607-435b-8a5a-0d61edff7554,Intune Mobile Application Management Client,Microsoft
+83a83b6f-8719-441b-846c-6d46d35b43af,Docparser,Microsoft
+a07d3a2b-436e-40ce-9eba-4e5a5664f14c,Enterprise File Sync Service,Microsoft
+67a908b9-5380-49f8-ab45-5abfa7ca6e45,SharePoint Online Client Extensibility Web Application Principal,Microsoft
+b39d63e7-7fa3-4b2b-94ea-ee256fdb8c2f,Partner Customer Delegated Admin Migration,Microsoft
+8e55a7b1-6766-4f0a-8610-ecacfe3d569a,Microsoft Teams Copilot Bot,Microsoft
+972bb84a-1d27-4bd3-8306-6b8e57679e8c,API Connectors 1st Party,Microsoft
+ba4bc2bd-843f-4d61-9d33-199178eae34e,Appliance Resource Provider,Microsoft
+02e3ae74-c151-4bda-b8f0-55fbf341de08,Application Registration Portal,Microsoft
+2b8844d8-6c87-4fce-97a0-fbec9006e140,AssistAPI,Microsoft
+8602e328-9b72-4f2d-a4ae-1387d013a2b3,Azure API Management,Microsoft
+2233b157-f44d-4812-b777-036cdaf9a96e,Azure Cloud Shell,Microsoft
+880da380-985e-4198-81b9-e05b1cc53158,Azure Cognitive Search,Microsoft
+801546d2-55cc-4ff4-b66d-134b1208deb5,Azure Commercial Services Tool - CST,Microsoft
+0947a342-ab4a-43be-93b3-b8243fc161e5,Azure Data Factory,Microsoft
+5d13f7d7-0567-429c-9880-320e9555e5fc,Azure Data Factory,Microsoft
+3b990c8b-9607-4c2a-8b04-1d41985facca,Azure Deployments,Microsoft
+fd225045-a727-45dc-8caa-77c8eb1b9521,Azure Diagnostics Resource Provider,Microsoft
+9191c4da-09fe-49d9-a5f1-d41cbe92ad95,Azure HDInsight Service,Microsoft
+609d2f62-527f-4451-bfd2-ac2c7850822c,Azure Kubernetes Service - Fleet RP,Microsoft
+0c6620df-7b29-44de-8ba4-688a56a20f9f,Azure Marketplace Datadog,Microsoft
+ddc728e9-153d-4032-ab80-80e57af7a56f,Azure Monitor for VMs,Microsoft
+cb43afba-eb6b-4cef-bf00-758b6c233beb,Azure OSSRDBMS MySQL Flexible Server BYOK,Microsoft
+408992c7-2af6-4ff1-92e3-65b73d2b5092,Azure Search Management,Microsoft
+c4288165-6698-45ba-98a5-48ea7791fed3,Azure Service Connector Resource Provider,Microsoft
+9c8b80bc-6887-42d0-b1af-d0c40f9bf1fa,Azure SQL Managed Instance to Azure AD Resource Provider,Microsoft
+a85cf173-4192-42f8-81fa-777a763e6e2c,Azure Virtual Desktop Client,Microsoft
+e81c7467-0fc3-4866-b814-c973488361cd,AzureBackup_Fabric_Service,Microsoft
+c505e273-0ba0-47e7-a0bd-f48042b4524d,AzureBackup_WBCM_Service,Microsoft
+2ff814a6-3304-4ab8-85cb-cd0e6f879c1d,AzureDatabricks,Microsoft
+c1652d7f-7767-4507-9f5f-9a97f38585d2,Belize,Microsoft
+0c8139b5-d545-4448-8d2b-2121bb242680,BillingExtension,Microsoft
+c19490b5-c092-426f-b1a2-674b279d4975,Bing Search APIs,Microsoft
+ae04d195-7aae-4ed7-800c-cfed140e3b1b,Business Scenario Service,Microsoft
+ab158d9a-0b5c-4cc3-bb2b-f6646581e4e4,CAP Neptune Prod CM Prod ,Microsoft
+f5fe7750-c730-4d4f-8517-0b1ad5bd2bd5,CAP Package Deployer Service IM,Microsoft
+f43e4cb3-c2bb-42e3-bb39-e1ad7426adbb,CDS Web Server Role NAM,Microsoft
+87251ad4-d513-4246-8138-b40d418b9005,CommComplianceApp,Microsoft
+82f77645-8a66-4745-bcdf-9706824f9ad0,Common Data Service,Microsoft
+433895fb-4ec7-45c3-a53c-c44d10f80d5b,Compromised Account Service,Microsoft
+08ad9b35-1979-40a6-a6f2-289cf7289374,D365 Office Data Service,Microsoft
+d9327919-6775-4843-9037-3fb0fb0473cb,Databricks Resource Provider,Microsoft
+f32f6829-8a2d-4d92-81f5-5eb201f68bf7,Dataverse - M365 Graph Teams Integration,Microsoft
+df77edef-903d-416b-bcc0-cc8b91af54ea,Defender for IoT,Microsoft
+380e9762-7111-490b-800b-0dd9857ca41a,DfMGraphApp,Microsoft
+10214c11-ebd3-44e8-af2f-ebcb8a79c569,EOP Admin API Web Service,Microsoft
+c475db56-f463-48d8-931a-cfa7cd642289,Feedback Portal UX,Microsoft
+cd1b8394-07a3-43b1-8aba-ce6ee572d0af,Frontline Worker Orchestrator Service,Microsoft
+95c6fb36-bab4-4c0f-9d29-37997c601eb7,Frontline Worker Orchestrator Service Test,Microsoft
+707aa1ac-be0a-478d-9ce7-0d2765a5c1d6,Funnel and Engagement Data Service,Microsoft
+4435c199-c3da-46b9-a61d-76de3f2c9f82,GitHub Actions API,Microsoft
+b9a50111-7110-459d-bc13-534691bd5b7b,GitHub Actions API - Dev,Microsoft
+85c49807-809d-4249-86e7-192762525474,GitHub CPS Network Service,Microsoft
+f8c6c2cc-4c3a-4157-b91c-11034ba01a6e,Intune AndroidFOTAService ConfidentialClient,Microsoft
+f1346770-5b25-470b-88bd-d5744ab7952c,Intune Autopilot ConfidentialClient,Microsoft
+a1c98362-38ca-4615-a0cc-bdda7d5bdf01,Intune Partner Data Delivery Service,Microsoft
+e9710088-bcdf-4a36-a7cd-ab24f73dfd23,Intune PartnerAPI Client Prod,Microsoft
+70dcc41e-5abf-4ecd-b017-d5c7370e58fe,Intune SidecarService ConfidentialClient,Microsoft
+66fa38d6-2d22-4532-b064-a0b0e39656f8,Intune Update Service,Microsoft
+189cf920-d3d8-4133-9145-23adcc6824fa,IpLicensingService,Microsoft
+ae11f5fb-c627-4eec-b4a0-f7b5969426e5,Liftr Datadog RPaaS,Microsoft
+055caf97-1b4f-4730-9f5d-acc24b707b06,Liftr-Monitoring-First-Party,Microsoft
+d9d5c99e-b0b4-4bad-92cc-5a6eb5421985,M365 Lighthouse Service,Microsoft
+35cbcc06-defd-44d2-ace4-bc2bf2466970,Managed Applications On Behalf Application,Microsoft
+a5ce81bb-67c7-4043-952a-22004782adb5,Marketplace Catalog,Microsoft
+5b712e99-51a3-41ce-86ff-046e0081c5c0,Marketplace SaaS v2,Microsoft
+20e940b3-4c77-4b0b-9a53-9e16a1b010a7,MarketplaceAPI Webhook,Microsoft
+37ccb541-667a-4428-947a-f5dda698fa3c,MARS,Microsoft
+3a0d2262-f1ba-45f7-a5cc-c3c6ad2de22e,Meeting Catchup Recommendations V2,Microsoft
+7084e364-df71-4a4a-9e8f-d375b5529913,Messaging Async Media,Microsoft
+a0e1e353-1a3e-42cf-a8ea-3a9746eec58c,Microsoft AppSource,Microsoft
+7d312290-28c8-473c-a0ed-8e53749b6d6d,Microsoft Cognitive Services,Microsoft
+0858ddce-8fca-4479-929b-4504feeed95e,Microsoft Defender for Cloud Apps MIP Server,Microsoft
+5926fc8e-304e-4f59-8bed-58ca97cc39a4,Microsoft Intune portal extension,Microsoft
+3016d0ce-47cc-4005-b11d-5fcabb1b643d,Microsoft Mesh Services,Microsoft
+a4a365df-50f1-4397-bc59-1a1564b8bb9c,Microsoft Remote Desktop,Microsoft
+9ed4cd8c-9a98-405f-966b-38ab1b0c24a3,Microsoft Services,Microsoft
+5b534afd-fdc0-4b38-a77f-af25442e3149,Microsoft Support Diagnostics,Microsoft
+48ef7923-268f-473d-bcf1-07f0997961f4,Microsoft Visual Studio Codespaces API - Dev,Microsoft
+9bd5ab7f-4031-4045-ace9-6bebbad202f6,Microsoft Visual Studio Services API,Microsoft
+b4ec8d8b-0275-4833-8568-690db4af4b45,Microsoft Volume Licensing,Microsoft
+049d4938-2ef2-4274-aa8f-630fc9bc33d1,Microsoft.Blockchain,Microsoft
+78827f38-7b69-4d5e-a627-d6fdd9c759a0,Microsoft.Blockchain Azure Resource Provider,Microsoft
+80a10ef9-8168-493d-abf9-3297c4ef6e3c,Microsoft.ServiceBus,Microsoft
+e9c19b55-5325-4cf3-a268-e380bc74c907,Microsoft_EMM_ModernWorkplace,Microsoft
+c2b688fe-48c0-464b-a89c-67041aa8fcb2,MicrosoftDefenderATP MAM,Microsoft
+81ca2f57-06b8-4597-9eee-ad8f700c5106,MicrosoftEntraIDReputationManagementServices,Microsoft
+16556bfc-5102-43c9-a82a-3ea5e4810689,Minecraft Education Edition Services,Microsoft
+a150d169-7d37-47dd-9b20-156207b7b02f,MIP Exchange Solutions,Microsoft
+8adc51cc-7477-49a4-be4e-263946b4d561,MIP Exchange Solutions - ODB,Microsoft
+192644fe-6aac-4786-8d93-775a056aa1de,MIP Exchange Solutions - SPO,Microsoft
+2c220739-d44d-4bf7-ba5f-95cf9fb7f10c,MIP Exchange Solutions - Teams,Microsoft
+75861f5e-a448-49d7-9c99-6b59bc88c6dc,Modern Support Connector,Microsoft
+5261cd9e-9047-4d9a-ad71-20186e5cf942,Modern workplace,Microsoft
+e036f41b-7edf-47ee-b373-b4b374a2e33c,Modern Workplace App Diagnostic Authenticator,Microsoft
+21ab802f-8580-4be3-a767-576c283a82f5,Modern Workplace Core ITaaS,Microsoft
+2e307cd5-5d2d-4499-b656-a97de9f52708,Modern Workplace Customer API Native,Microsoft
+789997c7-d888-4475-a0a0-35014494de85,Modern Workplace Management,Microsoft
+4e2326a6-8f2e-4b98-9fdf-50240be4326a,Modern Workplace Partner API,Microsoft
+ff51735f-9a5f-44dd-8411-6f2e2d3dc903,MSFT Security Experts AOBO Egress,Microsoft
+c04d4f34-63de-485d-b033-d1901fae84b4,Office 365 Calendar,Microsoft
+0771670b-3395-40a3-8e02-27afd2ca8a33,Office 365 Mail,Microsoft
+28ec9756-deaf-48b2-84d5-a623b99af263,Office Personal Assistant at Work Service,Microsoft
+b4114287-89e4-4209-bd99-b7d4919bcf64,OfficeDelve,Microsoft
+6a9b9266-8161-4a7b-913a-a9eda19da220,OneDrive,Microsoft
+65c8bd9e-caac-4816-be98-0692f41191bc,People Profile Event Proxy,Microsoft
+3e36f539-fc2c-479c-90fb-3cfa21da3a4b,Power Platform Environment Discovery Service,Microsoft
+dad3c6de-ed58-42ef-989f-9c0303aaeedc,Process Insights Prod,Microsoft
+d05a94d3-4ebf-4d16-a4b5-c5157fe79490,Prod-AzureSustainability,Microsoft
+56a02f66-b2ce-4568-954b-907d5476c479,Production-DPS-1P-SQLIaaS,Microsoft
+f77c2a8f-8a0a-4776-8e0a-bcb2549610ca,RPSaaS Meta RP,Microsoft
+b80a77b1-a78c-4655-9283-e40bbc285af0,SalesInsightsWebAppTIP,Microsoft
+eb070ea5-bd17-41f1-ad68-5851f6e71774,Service Bus MSI App,Microsoft
+949e58be-1de0-4aad-8538-114e9ecfe7aa,Skype Conversation Service,Microsoft
+0fc12b9a-5463-4b87-8f10-765fecb39990,SQL Copilot PPE,Microsoft
+ceecbdd6-288c-4be9-8445-74f139e5db19,SQLDBControlPlaneFirstPartyApp,Microsoft
+e9d778bd-0cde-4e66-977e-3702cef954c0,Teams Meeting Label Propagation Service,Microsoft
+61f9e166-f678-4342-bfd3-b49781ce7a0a,Teams Policy Notification Processor Service,Microsoft
+478d8d1a-326f-49da-a58e-8f576faa4b5e,Threat Intelligence Portal,Microsoft
+80331ee5-4436-4815-883e-93bc833a9a15,Universal Print Connector,Microsoft
+417ae6eb-aac8-42c8-900c-0e50debba688,Universal Print Enabled Printer,Microsoft
+dae89220-69ba-4957-a77a-47b78695e883,Universal Print Native Client,Microsoft
+aad98258-6bb0-44ed-a095-21506dfb68fe,Universal Print PS Module,Microsoft
+bb2a64ee-5d29-4b07-a491-25806dc854d3,Verifiable Credentials Service,Microsoft
+6a8b4b39-c021-437c-b060-5a14a3fd65f3,Verifiable Credentials Service Admin,Microsoft
+3db474b9-6a0c-4840-96ac-1fceb342124f,Verifiable Credentials Service Request,Microsoft
+5cfe643a-dd84-4d45-834d-c8d659a72a48,Virtual Visit APIs,Microsoft
+c8423563-e8f6-49f2-924b-90d9f664378a,Viva Goals,Microsoft
+0b9cb089-d006-4acb-bd17-04ed4f2c1c3f,Viva Goals Backfill,Microsoft
+1f42f784-071c-42e7-a83a-81808f561660,Viva Goals Identity Sync,Microsoft
+dd79bf6f-53fa-4c5f-962b-d029d26a579e,VoiceApplicationAnalytics,Microsoft
+69cc3193-b6c4-4172-98e5-ed0f38ab3ff8,Windows 365 Ibiza Extension,Microsoft
+7c0a6aea-533c-458c-9f81-15568f10f6e4,Windows 365 IW Service,Microsoft
+d5097d05-956f-4ae2-b6a2-eff25f5689b3,Windows Update for Business Cloud Extensions PowerShell,Microsoft
+66c6d0d1-f2e7-4a18-97a9-ed10f3347016,Managed Service,Microsoft
+9d3e55ba-79e0-4b7c-af50-dc460b81dca1,Microsoft Azure Data Catalog,Microsoft
+31359c7f-bd7e-475c-86db-fdb8c937548e,PnP Management Shell,Microsoft
+7598ef18-a171-4c40-b5b2-9b6df5d67a21,Defender for Cloud Apps - Power Platform Solution Deployer,Microsoft
+eb20f3e3-3dce-4d2c-b721-ebb8d4414067,Managed Meeting Rooms,Microsoft
+de8bc8b5-d9f9-48b1-a8ad-b748da725064,Graph Explorer,Microsoft
+c81c4f54-f70c-49e3-a01d-0a44ed684c5a,Power Policy CM - PROD,Microsoft
+fbc197b7-9e9c-4f98-823f-93cb1cb554e6,Capacity ,Microsoft
+372140e0-b3b7-4226-8ef9-d57986796201,Azure Windows VM Sign-In,Microsoft
+96ff4394-9197-43aa-b393-6a41652e21f8,Power Virtual Agents ,Microsoft
+7f15f9d9-cad0-44f1-bbba-d36650e07765,Export to data lake,Microsoft
+9bdab391-7bbe-42e8-8132-e4491dc29cc0,Azure Backup NRP Application,Microsoft
+4d0ad6c7-f6c3-46d8-ab0d-1406d5e6c86b,Azure Reserved Instance Application,Microsoft
+b28ec8e1-950e-4bd0-b3d0-c1e93074b88b,Azure Gallery RP,Microsoft
+0c708d37-30b2-4f22-8168-5d0cba6f37be,Microsoft Teams Partner Tenant Administration ,Microsoft
+2746ea77-4702-4b45-80ca-3c97e680e8b7,KustoService,Microsoft
+c1f33bc0-bdb4-4248-ba9b-096807ddb43e,Office Online Third Party Storage,Microsoft
+11c174dc-1945-4a9a-a36b-c79a0f246b9b,Windows Azure Application Insights,Microsoft
+aa580612-c342-4ace-9055-8edee43ccb89,Microsoft StaffHub,Microsoft
+4990cffe-04e8-4e8b-808a-1175604b879f,Microsoft Dev Center,Microsoft
+6201d19e-14fb-4472-a2d6-5634a5c97568,Event Hub MSI App,Microsoft
+6dae42f8-4368-4678-94ff-3960e28e3630,Azure Kubernetes Service AAD Server,Microsoft
+b8340c3b-9267-498f-b21a-15d5547fd85e,Hyper-V Recovery Manager,Microsoft
+1c827867-9069-4bde-8155-1a0267a3dea5,Microsoft DataMovement Metadata Service,Microsoft
+3b2fa68d-a091-48c9-95be-88d572e08fb7,AzureBackupReporting,Microsoft
+e3bfd6ac-eace-4438-9dc1-eed439e738de,MicrosoftMigrateProject,Microsoft
+76cd24bf-a9fc-4344-b1dc-908275de6d6d,Azure SQL Virtual Network to Network Resource Provider,Microsoft
+c9d254a9-346a-4c00-95eb-950cb62a58f0,SmartList Designer,Microsoft
+ea2f600a-4980-45b7-89bf-d34da487bda1,Microsoft.Azure.DomainRegistration,Microsoft
+262044b1-e2ce-469f-a196-69ab7ada62d3,Backup Management Service,Microsoft
+80369ed6-5f11-4dd9-bef3-692475845e77,Microsoft.EventHubs,Microsoft
+7319c514-987d-4e9b-ac3d-d38c4f427f4c,AzureContainerService,Microsoft
+e4ab13ed-33cb-41b4-9140-6e264582cf85,Azure SQL Database Backup To Azure Backup Vault,Microsoft
+123cd850-d9df-40bd-94d5-c9f07b7fa203,Azure OSSRDBMS Database,Microsoft
+00edd498-7c0c-4e68-859c-5a55d518c9c0,Teams CMD Services Webinars,Microsoft
+d52485ee-4609-4f6b-b3a3-68b6f841fa23,On-Premises Data Gateway Connector,Microsoft
+51df634f-ddb4-4901-8a2d-52f6393a796b,Azure Region Move Orchestrator Application,Microsoft
+e6f9f783-1fdb-4755-acaf-abed6c642885,Meru19 MySQL First Party App,Microsoft
+7ae5462d-d9d1-42f6-93ca-198d7b0ca997,Microsoft O365 Scuba,Microsoft
+0130cc9f-7ac5-4026-bd5f-80a08a54e6d9,Azure Data Warehouse Polybase,Microsoft
+13d54852-ae25-4f0b-823a-b09eea89f431,Outlook Service for Exchange,Microsoft
+728a93e3-065d-4678-93b1-3cc281223341,MicrosoftOffAzureApp,Microsoft
+bd93b475-f9e2-476e-963d-b2daf143ffb9,SQLVMResourceProviderAuth,Microsoft
+1fe0d6b3-81f0-4cf5-9dfd-fbb297d7848c,Microsoft Insider Risk Management,Microsoft
+fc75330b-179d-49af-87dd-3b1acf6827fa,AzureAutomation,Microsoft
+603b8c59-ba28-40ff-83d1-408eee9a93e5,Portable Identity Card Service,Microsoft
+76c7f279-7959-468f-8943-3954880e0d8c,Azure SQL Managed Instance to Microsoft.Network,Microsoft
+d87dcbc6-a371-462e-88e3-28ad15ec4e64,Domain Controller Services,Microsoft
+00000001-0000-0000-c000-000000000000,Azure ESTS Service,Microsoft
+510a5356-1745-4855-93a5-113ea589fb26,Microsoft 365 Ticketing,Microsoft
+507a7586-da5c-4e86-80f2-2bc2e55ae394,Surface Dashboard,Microsoft
+f8d98a96-0999-43f5-8af3-69971c7bb423,iOS Accounts,Microsoft
+e7c3e3a6-ecbf-4c1e-ae6e-cfe563e3b69a,IT Glue Integration,AcceptedExclusion
+32b6d34b-c894-4971-8223-e17b86e9ad26,Signal B2 Service,Microsoft
+c31baa9a-5553-45bd-bbf5-4b4726f295b7,Traceless Auth,AcceptedExclusion
+992136bc-5b57-425f-8d95-ac65975722cd,Microsoft Defender Hunting,Microsoft
+b91a7206-3411-407c-8484-63a005eac31c,SharePoint Online Client Extensibility Web Application Principal Helper,Microsoft
+d9ef585e-1410-4725-be20-2e69504c4f62,maue-appreg-dev-spn-wap-aad-reportingclient-001,Microsoft
+35e5e31d-b3e8-442b-9a8d-2f81f46938cf,Entra App Platform System Application,Microsoft
+86b4b4b4-db10-481c-876b-07447e7f204f,Groups Service,Microsoft
+3740a264-ea3d-4849-abef-c8ab18b25353,ConnectWise PSA RPA,AcceptedExclusion
+fc25da77-ab74-42e8-b976-4749361ea55e,Report Message,Microsoft
+8dbc8778-c907-4aa5-9957-811dc069d9bd,Teams Events Service,Microsoft
+fd9d14ed-0690-4466-8905-57bfa3cb2c1f,P2P Server,Microsoft
+61350e1d-1b87-4cb6-a6f8-480cd74278ea,Microsoft Photos Services,Microsoft
+b7892b0c-5ee7-4caa-9780-ce8de2d5b1dc,SharePoint Online Client Extensibility Web Application Principal,Microsoft
+d66f21b1-1b28-414a-a5f9-f426ea449c01,maue-appreg-prod-spn-wap-aad-reportingclient-001,Microsoft
+d1ddf0e4-d672-4dae-b554-9d5bdfd93547,Microsoft Intune PowerShell,Microsoft
+75d4238e-b142-4d2d-aed9-232b830b8706,Viva Skills,Microsoft
+85eced78-2127-4b24-9418-95f0bbe3d145,Safelinks,Microsoft
+d5e6af94-cdf0-4cf4-bc48-f9bfba16b189,MyFiles,Microsoft
+39968571-aaed-4be0-9223-2457c24d9ab2,CDS Web Server Role OCE,Microsoft
+5d2e594f-6cb3-46ec-bc86-8ae4bfbb2dc2,CIPP-SAM,AcceptedExclusion
+0e959cba-d60f-49b7-afe3-1b7c34563e37,Microsoft Teams Copilot Aggregator,Microsoft
+e8be65d6-d430-4289-a665-51bf2a194bda,Microsoft 365 App Catalog Services,Microsoft
+db2e68ad-c6cd-4bdb-ac70-b1e6efabd43e,MSPlus Azure AD Data Collection - GDAP,AcceptedExclusion
